@@ -1,28 +1,33 @@
-## Índice
+# ![Software Engineering Unified](https://github.com/LucasOliveiraS/software-engineering-unified/tree/master/images/matrix.jpg)
 
-* Programação
-* Algoritmos e Estrutura de Dados
-* Arquitetura e Desing de Software
-* Deploy
-* Testes
-* Gerais
+## Table of contents
+
+1. [Tutorials](#tutorials)
+  1.1 [Programming](#programming)
+  1.2 [Algorithms and data structures](#algorithms-and-data-structures)
+  1.3 [Software architecture and Design](#software-architecture-and-design)
+  1.4 [Testing](#testing)
+  1.5 [General](#general)
+2. [Talks](#talks)
+3. [Books](#books)
+4. [Repositories](#repositories)
 
 ## Motivation
 
-Repositório destinado a centralização de informação sobre tecnologia com o intuito de tornar os conteúdos acessíveis e organizados.
+Repository for the centralization of information about technology in order to make the contents accessible and organized.
 
 ## Contributing
 
-Sinta-se à vontade para enviar solicitações de pull requests para ajudar:
+Feel free to submit pull requests to help:
 
-* Corrigir erros
-* Melhorar seções
-* Adicionar novas seções
-* Traduzir
+* Fix errors
+* Improve sections
+* Add new sections
+* Translate
 
 ## Tutorials
 
-#### `Programação`
+#### `Programming`
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
 * [Advanced Python: 9 Best Practices to Apply When You Define Classes](https://medium.com/better-programming/advanced-python-9-best-practices-to-apply-when-you-define-classes-871a27af658b)
@@ -64,12 +69,12 @@ Sinta-se à vontade para enviar solicitações de pull requests para ajudar:
 * [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 * [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/#what-is-a-thread)
 
-#### `Algoritmos e Estrutura de Dados`
+#### `Algorithms and data structures`
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 * [Data Structures You Should Know as a JavaScript Developer](https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 
-#### `Arquitetura de Software` & `Desing de Software`
+#### `Software architecture and design`
 * [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Building Microservices? Here is what you should know](https://cloudncode.blog/2016/07/22/msa-getting-started/)
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
@@ -101,18 +106,12 @@ Sinta-se à vontade para enviar solicitações de pull requests para ajudar:
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 
-#### `Deploy`
-* [GitHub Actions — Makes ‘One Click To Deploy’ Feasible For ML CI/CD Pipeline](https://towardsdatascience.com/github-actions-makes-one-click-to-deploy-feasible-for-ml-ci-cd-pipeline-61470ed3edbc)
-* [Continuous Integration With GitHub Actions](https://medium.com/better-programming/continuous-integration-with-github-actions-fccc5a339b75)
-* [Scaling Docker to Serve Millions More Developers: Network Egress](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
-* [Continuous Integration Essentials](https://codeship.com/continuous-integration-essentials)
-
-#### `Testes`
+#### `Testing`
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 
-#### `Gerais`
+#### `General`
 * [Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Why it is Important that Software Projects Fail](https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html)
@@ -121,20 +120,50 @@ Sinta-se à vontade para enviar solicitações de pull requests para ajudar:
 * [A down-to-earth satellite challenge](https://www.notion.so/nindoo/FullStack-Routine-b582c39f5a7d4b5dba20a455197dfd8e?p=964aace98b4944ac88a03b2e6c53e9c8)
 * [How HTTPS works ...in a comic!](https://howhttps.works/)
 * [~/.bashrc VS ~/.profile VS ~/.bash_profile](https://leimao.github.io/blog/bashrc-VS-profile-VS-bash_profile/)
+* [How to finish your side project.](https://hugozap.com/posts/how-to-finish-your-side-project/)
+* [Richard Feynman’s First Lecture](https://medium.com/cantors-paradise/richard-feynmans-first-lecture-4c392833b395)
+* [Beginner’s Guide To Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
+* [Video Games are the Future of Education](https://nabeelqu.co/education)
+* [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
+* [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+* [How one hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [Sponsor pools: a new funding model for open source software](https://vriad.com/essays/a-new-funding-model-for-open-source-software)
+* [Why Are Plants Green? To Reduce the Noise in Photosynthesis.](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
+* [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills/)
+* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
+* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
+* [Hard work vs. Long work](https://seths.blog/2011/05/hard-work-vs-long-work/)
+* [A word for a value between 0 and 1](https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive)
+* [How to Escape From an Erupting Volcano](https://www.wired.com/story/how-to-escape-from-erupting-volcano/)
+* [The benefits of note-taking by hand](https://www.bbc.com/worklife/article/20200910-the-benefits-of-note-taking-by-hand)
+* [Is Revenue Model More Important than Culture?](https://somehowmanage.com/2020/09/20/revenue-model-not-culture-is-the-dominant-term/)
+* [We need young programmers; we need old programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
+* [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/)
+* [3 Ways to Go From Burnout State to Flow State](https://forge.medium.com/3-ways-to-go-from-burnout-state-to-flow-state-e444bc318101)
+* [An opinionated history of programming languages ](https://artagnon.com/articles/pl)
+* [The open source paradox](http://antirez.com/news/134)
+* [I built a lay-down desk](https://blog.luap.info/drafts/i-built-a-lay-down-desk.html?hnn)
+* [Destroy All Monsters](https://believermag.com/destroy-all-monsters/)
+* [Why you should write](https://www.preetamnath.com/blog/why-you-should-write)
+* [The rise and rise of creativity](https://aeon.co/essays/how-did-creativity-become-an-engine-of-economic-growth)
+* [Why Are the Noses Broken on Egyptian Statues?](https://hyperallergic.com/591628/why-are-the-noses-broken-on-egyptian-statues/)
+* [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
+* [Poet of Loneliness](https://www.firstthings.com/article/2020/11/poet-of-loneliness)
+* [How to spin your scientific research out of a university and into a startup](https://blog.ycombinator.com/how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup/)
 
-## Palestras
+## Talks
 * [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [The Why of Go](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 * [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
-## Livros
+## Books
 * [Structure and Interpretation of Computer Programs.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
-## Repositórios
+## Repositories
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Build your own x](https://github.com/danistefanovic/build-your-own-x)
-* [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+* [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
