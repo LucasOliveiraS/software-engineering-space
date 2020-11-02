@@ -1,13 +1,13 @@
-# ![Software Engineering Unified](https://github.com/LucasOliveiraS/software-engineering-unified/blob/main/images/matrix.jpg)
+# ![Software Engineering Unified](https://github.com/LucasOliveiraS/software-engineering-unified/blob/main/images/matrix.png)
 
 ## Table of contents
 
 1. [Tutorials](#tutorials)
-  - [Programming](#programming)
-  - [Algorithms and data structures](#algorithms-and-data-structures)
-  - [Software architecture and Design](#software-architecture-and-design)
-  - [Testing](#testing)
-  - [General](#general)
+    - [Programming](#programming)
+    - [Algorithms and data structures](#algorithms-and-data-structures)
+    - [Software architecture and Design](#software-architecture-and-design)
+    - [Testing](#testing)
+    - [General](#general)
 2. [Talks](#talks)
 3. [Books](#books)
 4. [Repositories](#repositories)
