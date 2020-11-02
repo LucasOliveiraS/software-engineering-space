@@ -3,11 +3,11 @@
 ## Table of contents
 
 1. [Tutorials](#tutorials)
-  1.1. [Programming](#programming)
-  1.2. [Algorithms and data structures](#algorithms-and-data-structures)
-  1.3. [Software architecture and Design](#software-architecture-and-design)
-  1.4. [Testing](#testing)
-  1.5. [General](#general)
+    1. [Programming](#programming)
+    2. [Algorithms and data structures](#algorithms-and-data-structures)
+    3. [Software architecture and Design](#software-architecture-and-design)
+    4. [Testing](#testing)
+    1.5. [General](#general)
 2. [Talks](#talks)
 3. [Books](#books)
 4. [Repositories](#repositories)
