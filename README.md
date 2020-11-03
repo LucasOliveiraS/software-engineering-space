@@ -15,6 +15,7 @@
 4. [Books](#books)
 5. [Repositories](#repositories)
 6. [Contributing](#contributing)
+7. [License](#license)
 
 ## About the project
 
@@ -173,3 +174,9 @@ Feel free to submit pull requests to help:
 * Improve sections
 * Add new sections
 * Translate
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Lucas Oliveira has waived all copyright and related or neighboring rights to this work.
