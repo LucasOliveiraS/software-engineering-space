@@ -1,29 +1,26 @@
+**[Get out of the Matrix]**
+
 # ![Software Engineering Unified](https://github.com/LucasOliveiraS/software-engineering-unified/blob/main/images/matrix.png)
 
 ## Table of contents
 
-1. [Tutorials](#tutorials)
+1. [About the project](#about-the-project)
+2. [Tutorials](#tutorials)
     - [Programming](#programming)
     - [Algorithms and data structures](#algorithms-and-data-structures)
     - [Software architecture and Design](#software-architecture-and-design)
     - [Testing](#testing)
     - [General](#general)
-2. [Talks](#talks)
-3. [Books](#books)
-4. [Repositories](#repositories)
+3. [Talks](#talks)
+4. [Books](#books)
+5. [Repositories](#repositories)
+6. [Contributing](#contributing)
 
-## Motivation
+## About the project
 
-Repository for the centralization of information about technology in order to make the contents accessible and organized.
+Repository focused on sharing information about technology in order to make content accessible and organized.
 
-## Contributing
-
-Feel free to submit pull requests to help:
-
-* Fix errors
-* Improve sections
-* Add new sections
-* Translate
+The repository is constantly updated with new content.
 
 ## Tutorials
 
@@ -167,3 +164,12 @@ Feel free to submit pull requests to help:
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 * [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
+
+## Contributing
+
+Feel free to submit pull requests to help:
+
+* Fix errors
+* Improve sections
+* Add new sections
+* Translate
