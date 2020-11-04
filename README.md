@@ -10,6 +10,7 @@
     - [Algorithms and data structures](#algorithms-and-data-structures)
     - [Software architecture and Design](#software-architecture-and-design)
     - [Testing](#testing)
+    - [Quantum computing](#quantum-computing)
     - [General](#general)
 3. [Talks](#talks)
 4. [Books](#books)
@@ -25,54 +26,77 @@ The repository is constantly updated with new content.
 
 ## Tutorials
 
-#### `Programming`
-* [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
-* [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
+### Programming
+
+#### `Python`
 * [Advanced Python: 9 Best Practices to Apply When You Define Classes](https://medium.com/better-programming/advanced-python-9-best-practices-to-apply-when-you-define-classes-871a27af658b)
-* [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
 * [Infrastructure Diagrams as Code Is Possible?](https://medium.com/swlh/infrastructure-diagrams-as-code-is-it-possible-b6bbae487f21)
-* [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
-* [New Case Studies About Google’s Use of Go ](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
-* [Assessing Abstractions](https://stopa.io/post/245)
-* [Functors in JavaScript](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
-* [Functional Go](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
-* [Module Pattern in JavaScript](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
-* [Dynamic Programming Made Easy](https://www.freecodecamp.org/news/dynamic-programming-made-easy/)
-* [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
-* [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
-* [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
-* [The Marvellously Mysterious JavaScript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
-* [Principles of Data Oriented Programming](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence)
-* [Thinking About Recursion](https://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?tj10hn)
-* [Recursion revisited ... a specific example](https://www.solipsys.co.uk/new/RecursionRevisited.html?tj15hn)
 * [On Python's multiple conditionals](https://www.djm.org.uk/posts/python-multiple-line-conditions-and-all-builtin/)
 * [Debugging Python in VSCode - 01 - Intro to Debugging in VSCode](https://www.youtube.com/watch?v=KEdq7gC_RTA)
 * [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
-* [Go by Example](https://gobyexample.com/)
-* [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
+* [Principles of Data Oriented Programming](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence)
 * [Build a scalable web crawler with Selenium and Python](https://towardsdatascience.com/build-a-scalable-web-crawler-with-selenium-and-pyhton-9c0c23e3ebe5)
 * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
+* [Unlock the 4 Mysteries of self in Python](https://medium.com/better-programming/unlock-the-4-mysteries-of-self-in-python-d1913fbb8e16)
+* [What’s \__init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
+* [Analyzing Python Code with Python](https://rotemtam.com/2020/08/13/python-ast/)
+* [5 Advanced Python Concepts: Explanations and Applications](https://medium.com/better-programming/5-advanced-python-concepts-explanations-and-applications-99a03f6bd1bd)
+* [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
+* [Data-oriented Programming in Python ](https://www.moderndescartes.com/essays/data_oriented_python/)
+* [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/#what-is-a-thread)
+* [Deploying a Simple UI for Python](https://towardsdatascience.com/deploying-a-simple-ui-for-python-88e8e7cbbf61)
+* [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
+
+#### `JavaScript`
+* [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
+* [Functors in JavaScript](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
+* [Module Pattern in JavaScript](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
+* [The Marvellously Mysterious JavaScript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+* [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
+* [The Amazing Power of JavaScript Proxies](https://levelup.gitconnected.com/the-amazing-power-of-javascript-proxies-aa27c6d06bcb)
+* [80% Cleaner JavaScript Code Using Optional Chaining and Nullish Coalescing](https://medium.com/the-non-traditional-developer/80-cleaner-javascript-code-using-optional-chaining-and-nullish-coalescing-3fb1d1df3867)
+* [11 JavaScript and TypeScript Shorthands You Should Know](https://blog.bitsrc.io/11-javascript-and-typescript-shorthands-you-should-know-690a002674e0)
+
+#### `TypeScript`
+* [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
+* [Monoids in TypeScript](https://functionalprogramming.medium.com/monoids-in-typescript-59a9c1510993)
+
+#### `Node.js`
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [Design patterns in Node.js: A practical guide](https://blog.logrocket.com/design-patterns-in-node-js/)
 * [Clean Node.js Architecture | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/clean-nodejs-architecture/)
 * [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code [with Examples]](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
-* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
-* [Unlock the 4 Mysteries of self in Python](https://medium.com/better-programming/unlock-the-4-mysteries-of-self-in-python-d1913fbb8e16)
-* [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
-* [Analyzing Python Code with Python](https://rotemtam.com/2020/08/13/python-ast/)
-* [5 Advanced Python Concepts: Explanations and Applications](https://medium.com/better-programming/5-advanced-python-concepts-explanations-and-applications-99a03f6bd1bd)
-* [Inventing Monads](https://stopa.io/post/247)
-* [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
-* [Data-oriented Programming in Python ](https://www.moderndescartes.com/essays/data_oriented_python/)
 * [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
-* [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/#what-is-a-thread)
 
-#### `Algorithms and data structures`
+#### `GO`
+* [New Case Studies About Google’s Use of Go ](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
+* [Functional Go](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
+* [Go by Example](https://gobyexample.com/)
+
+#### `Git/GitHub`
+* [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
+
+#### `Concepts`
+* [Assessing Abstractions](https://stopa.io/post/245)
+* [Dynamic Programming Made Easy](https://www.freecodecamp.org/news/dynamic-programming-made-easy/)
+* [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
+* [Inventing Monads](https://stopa.io/post/247)
+* [Thinking About Recursion](https://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?tj10hn)
+* [Recursion revisited ... a specific example](https://www.solipsys.co.uk/new/RecursionRevisited.html?tj15hn)
+* [Functional core, imperative shell in Javascript](https://medium.com/@magnusjt/functional-core-imperative-shell-in-javascript-29bef2353ac2)
+
+#### `Tips`
+* [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
+* [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
+* [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
+
+#### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 * [Data Structures You Should Know as a JavaScript Developer](https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 
-#### `Software architecture and design`
+#### Software architecture and design
 * [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Building Microservices? Here is what you should know](https://cloudncode.blog/2016/07/22/msa-getting-started/)
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
@@ -104,12 +128,15 @@ The repository is constantly updated with new content.
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 
-#### `Testing`
+#### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 
-#### `General`
+#### Quantum computing
+* [The Need, Promise, and Reality of Quantum Computing](https://towardsdatascience.com/the-need-promise-and-reality-of-quantum-computing-4264ce15c6c0)
+
+#### General
 * [Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Why it is Important that Software Projects Fail](https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html)
@@ -150,6 +177,7 @@ The repository is constantly updated with new content.
 * [How to spin your scientific research out of a university and into a startup](https://blog.ycombinator.com/how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup/)
 
 ## Talks
+
 * [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
@@ -157,9 +185,31 @@ The repository is constantly updated with new content.
 * [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
 ## Books
+
 * [Structure and Interpretation of Computer Programs.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
+## Youtube channels
+
+#### English
+[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+[Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+[Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
+[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
+#### Portuguese
+[Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
+[Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+[Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+[Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
+
+## Podcasts
+
+* [Lex Fridman Podcast](https://lexfridman.com/podcast/)
+* [Hipsters.tech](https://hipsters.tech/)
+
 ## Repositories
+
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
