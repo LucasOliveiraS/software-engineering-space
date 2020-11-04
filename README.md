@@ -53,7 +53,6 @@ The repository is constantly updated with new content.
 * [Functors in JavaScript](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
 * [Module Pattern in JavaScript](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
 * [The Marvellously Mysterious JavaScript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
-* [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
 * [The Amazing Power of JavaScript Proxies](https://levelup.gitconnected.com/the-amazing-power-of-javascript-proxies-aa27c6d06bcb)
 * [80% Cleaner JavaScript Code Using Optional Chaining and Nullish Coalescing](https://medium.com/the-non-traditional-developer/80-cleaner-javascript-code-using-optional-chaining-and-nullish-coalescing-3fb1d1df3867)
 * [11 JavaScript and TypeScript Shorthands You Should Know](https://blog.bitsrc.io/11-javascript-and-typescript-shorthands-you-should-know-690a002674e0)
@@ -79,6 +78,7 @@ The repository is constantly updated with new content.
 
 #### `Concepts`
 * [Assessing Abstractions](https://stopa.io/post/245)
+* [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
 * [Dynamic Programming Made Easy](https://www.freecodecamp.org/news/dynamic-programming-made-easy/)
 * [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 * [Inventing Monads](https://stopa.io/post/247)
@@ -91,12 +91,12 @@ The repository is constantly updated with new content.
 * [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 
-#### Algorithms and data structures
+### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 * [Data Structures You Should Know as a JavaScript Developer](https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 
-#### Software architecture and design
+### Software architecture and design
 * [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Building Microservices? Here is what you should know](https://cloudncode.blog/2016/07/22/msa-getting-started/)
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
@@ -128,15 +128,15 @@ The repository is constantly updated with new content.
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 
-#### Testing
+### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 
-#### Quantum computing
+### Quantum computing
 * [The Need, Promise, and Reality of Quantum Computing](https://towardsdatascience.com/the-need-promise-and-reality-of-quantum-computing-4264ce15c6c0)
 
-#### General
+### General
 * [Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Why it is Important that Software Projects Fail](https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html)
@@ -191,17 +191,17 @@ The repository is constantly updated with new content.
 ## Youtube channels
 
 #### English
-[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
-[Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
-[Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
-[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+* [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+* [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 #### Portuguese
-[Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
-[Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
-[Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
-[Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
+* [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+* [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+* [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
 
 ## Podcasts
 
