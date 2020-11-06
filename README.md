@@ -1,6 +1,6 @@
-**[Get out of the Matrix]**
+# ![Software Engineering Unified](https://github.com/LucasOliveiraS/software-engineering-unified/blob/main/images/alan-turing.png)
 
-# ![Software Engineering Unified](https://github.com/LucasOliveiraS/software-engineering-unified/blob/main/images/matrix.png)
+> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” - Alan Turing
 
 ## Table of contents
 
@@ -12,11 +12,12 @@
     - [Testing](#testing)
     - [Quantum computing](#quantum-computing)
     - [General](#general)
-3. [Talks](#talks)
-4. [Books](#books)
-5. [Repositories](#repositories)
-6. [Contributing](#contributing)
-7. [License](#license)
+3. [Philosophy](#philosophy)
+4. [Talks](#talks)
+5. [Books](#books)
+6. [Repositories](#repositories)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## About the project
 
@@ -131,6 +132,7 @@ The repository is constantly updated with new content.
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
+* [TDD Revisited](https://danuker.go.ro/tdd-revisited-pytest-updated-2020-09-03.html#update-2020-09-03-keep-coupling-low)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 
 ### Quantum computing
@@ -175,6 +177,16 @@ The repository is constantly updated with new content.
 * [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 * [Poet of Loneliness](https://www.firstthings.com/article/2020/11/poet-of-loneliness)
 * [How to spin your scientific research out of a university and into a startup](https://blog.ycombinator.com/how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup/)
+* [Deprecating scp](https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/)
+* [Why There Aren't More Googles?](http://paulgraham.com/googles.html)
+
+## Philosophy
+
+### Get out of the Matrix
+* [Jailbreaking the Simulation](https://www.youtube.com/watch?v=ESXOAJRdcwQ)
+* [Are We Living in a Simulation?](https://www.youtube.com/watch?v=_SpptYg_0Rs)
+* [ No Computer Can Simulate the Universe Except the Universe Itself](https://www.youtube.com/watch?v=1PdBl7JlDT8)
+* [Nick Bostrom on the Joe Rogan Podcast Conversation About the Simulation](https://www.youtube.com/watch?v=vx7DLImJ1Mw)
 
 ## Talks
 
