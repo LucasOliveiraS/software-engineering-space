@@ -73,6 +73,7 @@ The repository is constantly updated with new content.
 * [New Case Studies About Google’s Use of Go ](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
 * [Functional Go](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
 * [Go by Example](https://gobyexample.com/)
+* [Three Months of Go (from a Haskeller's perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
 
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
@@ -86,11 +87,14 @@ The repository is constantly updated with new content.
 * [Thinking About Recursion](https://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?tj10hn)
 * [Recursion revisited ... a specific example](https://www.solipsys.co.uk/new/RecursionRevisited.html?tj15hn)
 * [Functional core, imperative shell in Javascript](https://medium.com/@magnusjt/functional-core-imperative-shell-in-javascript-29bef2353ac2)
+* [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+* [Composing Programs](http://composingprograms.com/)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
 * [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
+* [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -195,6 +199,9 @@ The repository is constantly updated with new content.
 * ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [The Why of Go](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 * [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
+* [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+* [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
+* [ Jim Carrey's Commencement Address at the 2014 MUM Graduation](https://www.youtube.com/watch?v=V80-gPkpH6M)
 
 ## Books
 
