@@ -48,6 +48,7 @@ The repository is constantly updated with new content.
 * [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/#what-is-a-thread)
 * [Deploying a Simple UI for Python](https://towardsdatascience.com/deploying-a-simple-ui-for-python-88e8e7cbbf61)
 * [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
+* [On the Beauty of Python's ExitStack](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -77,6 +78,7 @@ The repository is constantly updated with new content.
 
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
+* [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
 
 #### `Concepts`
 * [Assessing Abstractions](https://stopa.io/post/245)
@@ -95,6 +97,7 @@ The repository is constantly updated with new content.
 * [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
+* [How To Write Unit Tests For Logging ](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -135,12 +138,15 @@ The repository is constantly updated with new content.
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
+* [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+* [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 * [TDD Revisited](https://danuker.go.ro/tdd-revisited-pytest-updated-2020-09-03.html#update-2020-09-03-keep-coupling-low)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 
 ### Quantum computing
 * [The Need, Promise, and Reality of Quantum Computing](https://towardsdatascience.com/the-need-promise-and-reality-of-quantum-computing-4264ce15c6c0)
+* [Introductory lectures on quantum computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)
 
 ### General
 * [Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)
@@ -183,6 +189,9 @@ The repository is constantly updated with new content.
 * [How to spin your scientific research out of a university and into a startup](https://blog.ycombinator.com/how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup/)
 * [Deprecating scp](https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/)
 * [Why There Aren't More Googles?](http://paulgraham.com/googles.html)
+* [Time Loop Software](https://marak.com/blog/2013-05-13-time-loop-software)
+* [Inside the Secret Math Society Known Simply as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
+* [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 ## Philosophy
 
@@ -202,6 +211,7 @@ The repository is constantly updated with new content.
 * [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [ Jim Carrey's Commencement Address at the 2014 MUM Graduation](https://www.youtube.com/watch?v=V80-gPkpH6M)
+* [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 
 ## Books
 
