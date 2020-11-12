@@ -8,7 +8,7 @@
 2. [Tutorials](#tutorials)
     - [Programming](#programming)
     - [Algorithms and data structures](#algorithms-and-data-structures)
-    - [Software architecture and Design](#software-architecture-and-design)
+    - [Software architecture and design](#software-architecture-and-design)
     - [Testing](#testing)
     - [Quantum computing](#quantum-computing)
     - [General](#general)
@@ -192,6 +192,7 @@ The repository is constantly updated with new content.
 * [Time Loop Software](https://marak.com/blog/2013-05-13-time-loop-software)
 * [Inside the Secret Math Society Known Simply as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
 * [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+* [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://www.weforum.org/agenda/2016/11/shopping-i-can-t-really-remember-what-that-is/)
 
 ## Philosophy
 
