@@ -30,17 +30,17 @@ The repository is constantly updated with new content.
 ### Programming
 
 #### `Python`
+* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
+* [Principles of Data Oriented Programming](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence)
+* [What’s \__init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
 * [Advanced Python: 9 Best Practices to Apply When You Define Classes](https://medium.com/better-programming/advanced-python-9-best-practices-to-apply-when-you-define-classes-871a27af658b)
 * [Infrastructure Diagrams as Code Is Possible?](https://medium.com/swlh/infrastructure-diagrams-as-code-is-it-possible-b6bbae487f21)
 * [On Python's multiple conditionals](https://www.djm.org.uk/posts/python-multiple-line-conditions-and-all-builtin/)
 * [Debugging Python in VSCode - 01 - Intro to Debugging in VSCode](https://www.youtube.com/watch?v=KEdq7gC_RTA)
 * [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
-* [Principles of Data Oriented Programming](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence)
 * [Build a scalable web crawler with Selenium and Python](https://towardsdatascience.com/build-a-scalable-web-crawler-with-selenium-and-pyhton-9c0c23e3ebe5)
 * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
-* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [Unlock the 4 Mysteries of self in Python](https://medium.com/better-programming/unlock-the-4-mysteries-of-self-in-python-d1913fbb8e16)
-* [What’s \__init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
 * [Analyzing Python Code with Python](https://rotemtam.com/2020/08/13/python-ast/)
 * [5 Advanced Python Concepts: Explanations and Applications](https://medium.com/better-programming/5-advanced-python-concepts-explanations-and-applications-99a03f6bd1bd)
 * [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
@@ -49,6 +49,7 @@ The repository is constantly updated with new content.
 * [Deploying a Simple UI for Python](https://towardsdatascience.com/deploying-a-simple-ui-for-python-88e8e7cbbf61)
 * [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
 * [On the Beauty of Python's ExitStack](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
+* [High Performance Computing with Python](https://www.youtube.com/watch?v=MM_rg_iF1LA&list=PL1tk5lGm7zvSC4rLm5Y71372R1Yxl2Dg_)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -193,6 +194,7 @@ The repository is constantly updated with new content.
 * [Inside the Secret Math Society Known Simply as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
 * [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 * [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://www.weforum.org/agenda/2016/11/shopping-i-can-t-really-remember-what-that-is/)
+* [Burnout and Mental Health](http://stephaniehurlburt.com/blog/2016/6/27/burnout-and-mental-health)
 
 ## Philosophy
 
