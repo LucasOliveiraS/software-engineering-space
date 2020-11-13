@@ -63,6 +63,7 @@ The repository is constantly updated with new content.
 #### `TypeScript`
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 * [Monoids in TypeScript](https://functionalprogramming.medium.com/monoids-in-typescript-59a9c1510993)
+* [Continuations in TypeScript](https://itnext.io/continuations-in-typescript-db18402010bc)
 
 #### `Node.js`
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
@@ -76,6 +77,7 @@ The repository is constantly updated with new content.
 * [Functional Go](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
 * [Go by Example](https://gobyexample.com/)
 * [Three Months of Go (from a Haskeller's perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
+* [The Command Pattern With Go](https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7)
 
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
@@ -136,6 +138,7 @@ The repository is constantly updated with new content.
 * [Understanding OAuth2 and OpenID Connect](https://www.polarsparc.com/xhtml/OAuth2-OIDC.html)
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
+* [3 Domain-Centric Architectures Every Software Architect Should Know](https://levelup.gitconnected.com/3-domain-centric-architectures-every-software-developer-should-know-a15727ada79f)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -195,6 +198,10 @@ The repository is constantly updated with new content.
 * [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 * [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://www.weforum.org/agenda/2016/11/shopping-i-can-t-really-remember-what-that-is/)
 * [Burnout and Mental Health](http://stephaniehurlburt.com/blog/2016/6/27/burnout-and-mental-health)
+* [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
+* [Most mentioned links in Hacker News comments, 2006–2015](https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md)
+* [Nuclear war is unlikely to cause human extinction](https://www.lesswrong.com/posts/sT6NxFxso6Z9xjS7o/nuclear-war-is-unlikely-to-cause-human-extinction)
+* [The Feynman Technique Can Help You Remember Everything You Read](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43)
 
 ## Philosophy
 
@@ -219,6 +226,7 @@ The repository is constantly updated with new content.
 ## Books
 
 * [Structure and Interpretation of Computer Programs.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+* [Evidence-basedSoftware Engineering](http://knosof.co.uk/ESEUR/ESEUR.pdf)
 
 ## Youtube channels
 
