@@ -94,6 +94,7 @@ The repository is constantly updated with new content.
 * [Functional core, imperative shell in Javascript](https://medium.com/@magnusjt/functional-core-imperative-shell-in-javascript-29bef2353ac2)
 * [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [Composing Programs](http://composingprograms.com/)
+* [A Case for Properties](https://blog.willbanders.dev/articles/a-case-for-properties.html)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -202,6 +203,7 @@ The repository is constantly updated with new content.
 * [Most mentioned links in Hacker News comments, 2006–2015](https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md)
 * [Nuclear war is unlikely to cause human extinction](https://www.lesswrong.com/posts/sT6NxFxso6Z9xjS7o/nuclear-war-is-unlikely-to-cause-human-extinction)
 * [The Feynman Technique Can Help You Remember Everything You Read](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43)
+* [Finally understand math, don't memorize it](https://betterexplained.com/)
 
 ## Philosophy
 
@@ -210,6 +212,8 @@ The repository is constantly updated with new content.
 * [Are We Living in a Simulation?](https://www.youtube.com/watch?v=_SpptYg_0Rs)
 * [ No Computer Can Simulate the Universe Except the Universe Itself](https://www.youtube.com/watch?v=1PdBl7JlDT8)
 * [Nick Bostrom on the Joe Rogan Podcast Conversation About the Simulation](https://www.youtube.com/watch?v=vx7DLImJ1Mw)
+* [AI Expert Lex Fridman Weighs in on Simulation Theory](https://www.youtube.com/watch?v=ZFID_rgzE_Y)
+* [We exist inside the story that the brain tells itself](https://www.youtube.com/watch?v=tyrPMVMb-Uw&t=11s)
 
 ## Talks
 
