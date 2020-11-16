@@ -95,6 +95,7 @@ The repository is constantly updated with new content.
 * [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [Composing Programs](http://composingprograms.com/)
 * [A Case for Properties](https://blog.willbanders.dev/articles/a-case-for-properties.html)
+* [Functional core/imperative shell](https://github.com/kbilsted/Functional-core-imperative-shell/blob/master/README.md)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
