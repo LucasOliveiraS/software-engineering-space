@@ -101,7 +101,6 @@ The repository is constantly updated with new content.
 * [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
-* [How To Write Unit Tests For Logging ](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -148,6 +147,7 @@ The repository is constantly updated with new content.
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 * [TDD Revisited](https://danuker.go.ro/tdd-revisited-pytest-updated-2020-09-03.html#update-2020-09-03-keep-coupling-low)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
+* [How To Write Unit Tests For Logging ](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 
 ### Quantum computing
 * [The Need, Promise, and Reality of Quantum Computing](https://towardsdatascience.com/the-need-promise-and-reality-of-quantum-computing-4264ce15c6c0)
@@ -204,6 +204,9 @@ The repository is constantly updated with new content.
 * [Nuclear war is unlikely to cause human extinction](https://www.lesswrong.com/posts/sT6NxFxso6Z9xjS7o/nuclear-war-is-unlikely-to-cause-human-extinction)
 * [The Feynman Technique Can Help You Remember Everything You Read](https://medium.com/age-of-awareness/the-feynman-technique-will-make-you-remember-what-you-read-f0bce8cc4c43)
 * [Finally understand math, don't memorize it](https://betterexplained.com/)
+* [A Spacetime Surprise: Time Isn’t Just Another Dimension](https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/?sh=3ff12f4147dc)
+* [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
+* [What distinguishes great software engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
 
 ## Philosophy
 
@@ -230,7 +233,7 @@ The repository is constantly updated with new content.
 ## Books
 
 * [Structure and Interpretation of Computer Programs.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
-* [Evidence-basedSoftware Engineering](http://knosof.co.uk/ESEUR/ESEUR.pdf)
+* [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/ESEUR.pdf)
 
 ## Youtube channels
 
