@@ -82,6 +82,7 @@ The repository is constantly updated with new content.
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
 * [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
+* [Write Better Commits With Semantic Commits](https://medium.com/swlh/write-better-commits-with-semantic-commits-3316c68763f6)
 
 #### `Concepts`
 * [Assessing Abstractions](https://stopa.io/post/245)
@@ -208,6 +209,11 @@ The repository is constantly updated with new content.
 * [A Spacetime Surprise: Time Isn’t Just Another Dimension](https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/?sh=3ff12f4147dc)
 * [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
 * [What distinguishes great software engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
+* [The 5 Most Influential Programmers](https://medium.com/the-innovation/the-5-most-influential-programmers-in-computer-science-3fa590edc729)
+* [What Gödel Discovered](https://stopa.io/post/269)
+* [The Nine Phases of an Open Source Project Maintainer](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
+* [Being Glue](https://noidea.dog/glue)
+* [Finding Startup Ideas and Building in Heavily-Regulated Spaces](https://firstround.com/review/finding-startup-ideas-and-building-in-heavily-regulated-spaces-lessons-from-cash-app-and-carbon-health/)
 
 ## Philosophy
 
