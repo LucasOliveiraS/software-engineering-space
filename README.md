@@ -214,6 +214,7 @@ The repository is constantly updated with new content.
 * [The Nine Phases of an Open Source Project Maintainer](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
 * [Being Glue](https://noidea.dog/glue)
 * [Finding Startup Ideas and Building in Heavily-Regulated Spaces](https://firstround.com/review/finding-startup-ideas-and-building-in-heavily-regulated-spaces-lessons-from-cash-app-and-carbon-health/)
+* [The Math of Password Hashing Algorithms and Entropy](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
 
 ## Philosophy
 
