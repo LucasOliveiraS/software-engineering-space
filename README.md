@@ -141,6 +141,7 @@ The repository is constantly updated with new content.
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 * [3 Domain-Centric Architectures Every Software Architect Should Know](https://levelup.gitconnected.com/3-domain-centric-architectures-every-software-developer-should-know-a15727ada79f)
+* [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -215,6 +216,8 @@ The repository is constantly updated with new content.
 * [Being Glue](https://noidea.dog/glue)
 * [Finding Startup Ideas and Building in Heavily-Regulated Spaces](https://firstround.com/review/finding-startup-ideas-and-building-in-heavily-regulated-spaces-lessons-from-cash-app-and-carbon-health/)
 * [The Math of Password Hashing Algorithms and Entropy](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
+* [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+* [What You Can Learn from Living in Antarctica](http://nautil.us/issue/92/frontiers/what-you-can-learn-from-living-in-antarctica)
 
 ## Philosophy
 
@@ -237,6 +240,7 @@ The repository is constantly updated with new content.
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [ Jim Carrey's Commencement Address at the 2014 MUM Graduation](https://www.youtube.com/watch?v=V80-gPkpH6M)
 * [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+* [A Ray of Hope: Array Programming for the 21st Century](https://www.youtube.com/watch?v=x1FoTYnJxeY)
 
 ## Books
 
