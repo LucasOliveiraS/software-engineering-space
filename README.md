@@ -218,6 +218,7 @@ The repository is constantly updated with new content.
 * [The Math of Password Hashing Algorithms and Entropy](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
 * [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [What You Can Learn from Living in Antarctica](http://nautil.us/issue/92/frontiers/what-you-can-learn-from-living-in-antarctica)
+* [There’s Still No Viable Open Source Business Model](https://gestaltit.com/podcast/tom/theres-still-no-viable-open-source-business-model/)
 
 ## Philosophy
 
