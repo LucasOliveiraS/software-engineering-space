@@ -219,6 +219,10 @@ The repository is constantly updated with new content.
 * [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [What You Can Learn from Living in Antarctica](http://nautil.us/issue/92/frontiers/what-you-can-learn-from-living-in-antarctica)
 * [There’s Still No Viable Open Source Business Model](https://gestaltit.com/podcast/tom/theres-still-no-viable-open-source-business-model/)
+* [Some Math Problems Seem Impossible. That Can Be a Good Thing](https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/)
+* [How do you stimulate your creativity on a day like today?](https://news.ycombinator.com/item?id=25170661)
+* [How to force yourself to leave the computer using the leave command](https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/)
+* [How to Structure Your Day Like a Stoic](https://medium.com/stoicism-philosophy-as-a-way-of-life/how-to-structure-your-day-like-a-stoic-f8086569aaca)
 
 ## Philosophy
 
