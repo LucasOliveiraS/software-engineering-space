@@ -97,6 +97,7 @@ The repository is constantly updated with new content.
 * [Composing Programs](http://composingprograms.com/)
 * [A Case for Properties](https://blog.willbanders.dev/articles/a-case-for-properties.html)
 * [Functional core/imperative shell](https://github.com/kbilsted/Functional-core-imperative-shell/blob/master/README.md)
+* [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -142,6 +143,7 @@ The repository is constantly updated with new content.
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 * [3 Domain-Centric Architectures Every Software Architect Should Know](https://levelup.gitconnected.com/3-domain-centric-architectures-every-software-developer-should-know-a15727ada79f)
 * [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)
+* [Microservices Architecture From A to Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -223,6 +225,8 @@ The repository is constantly updated with new content.
 * [How do you stimulate your creativity on a day like today?](https://news.ycombinator.com/item?id=25170661)
 * [How to force yourself to leave the computer using the leave command](https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/)
 * [How to Structure Your Day Like a Stoic](https://medium.com/stoicism-philosophy-as-a-way-of-life/how-to-structure-your-day-like-a-stoic-f8086569aaca)
+* [How I Spend My Attention](https://mythirdbrain.substack.com/p/how-i-spend-my-attention)
+* [Committing to collaboration](https://increment.com/remote/committing-to-collaboration-version-control/)
 
 ## Philosophy
 
