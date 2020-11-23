@@ -231,6 +231,7 @@ The repository is constantly updated with new content.
 ## Philosophy
 
 ### Get out of the Matrix
+* [Are We Living in a Simulation?](https://www.simulation-argument.com/simulation.pdf)
 * [Jailbreaking the Simulation](https://www.youtube.com/watch?v=ESXOAJRdcwQ)
 * [Are We Living in a Simulation?](https://www.youtube.com/watch?v=_SpptYg_0Rs)
 * [ No Computer Can Simulate the Universe Except the Universe Itself](https://www.youtube.com/watch?v=1PdBl7JlDT8)
