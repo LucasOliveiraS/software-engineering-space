@@ -98,6 +98,7 @@ The repository is constantly updated with new content.
 * [A Case for Properties](https://blog.willbanders.dev/articles/a-case-for-properties.html)
 * [Functional core/imperative shell](https://github.com/kbilsted/Functional-core-imperative-shell/blob/master/README.md)
 * [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
+* [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -227,6 +228,8 @@ The repository is constantly updated with new content.
 * [How to Structure Your Day Like a Stoic](https://medium.com/stoicism-philosophy-as-a-way-of-life/how-to-structure-your-day-like-a-stoic-f8086569aaca)
 * [How I Spend My Attention](https://mythirdbrain.substack.com/p/how-i-spend-my-attention)
 * [Committing to collaboration](https://increment.com/remote/committing-to-collaboration-version-control/)
+* [You might not need machine learning](https://nullprogram.com/blog/2020/11/24/)
+* [On Small Games](https://lorenzo.itch.io/on-small-games)
 
 ## Philosophy
 
