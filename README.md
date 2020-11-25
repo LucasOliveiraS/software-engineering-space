@@ -99,6 +99,7 @@ The repository is constantly updated with new content.
 * [Functional core/imperative shell](https://github.com/kbilsted/Functional-core-imperative-shell/blob/master/README.md)
 * [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
 * [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
+* [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -145,6 +146,9 @@ The repository is constantly updated with new content.
 * [3 Domain-Centric Architectures Every Software Architect Should Know](https://levelup.gitconnected.com/3-domain-centric-architectures-every-software-developer-should-know-a15727ada79f)
 * [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)
 * [Microservices Architecture From A to Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28)
+* [An API is a user interface](https://www.arp242.net/api-ux.html)
+* [Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
+* [Self-documenting Architecture](https://medium.com/nick-tune-tech-strategy-blog/self-documenting-architecture-80c8c2429cb8)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -230,6 +234,8 @@ The repository is constantly updated with new content.
 * [Committing to collaboration](https://increment.com/remote/committing-to-collaboration-version-control/)
 * [You might not need machine learning](https://nullprogram.com/blog/2020/11/24/)
 * [On Small Games](https://lorenzo.itch.io/on-small-games)
+* [Progress bars still lie: Please fix them](https://web.eecs.utk.edu/~azh/blog/fixprogressbars.html)
+* [The Timing of Evolutionary Transitions Suggests Intelligent Life Is Rare](https://twitter.com/anderssandberg/status/1331041820516769792)
 
 ## Philosophy
 
