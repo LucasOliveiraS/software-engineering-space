@@ -236,6 +236,7 @@ The repository is constantly updated with new content.
 * [On Small Games](https://lorenzo.itch.io/on-small-games)
 * [Progress bars still lie: Please fix them](https://web.eecs.utk.edu/~azh/blog/fixprogressbars.html)
 * [The Timing of Evolutionary Transitions Suggests Intelligent Life Is Rare](https://twitter.com/anderssandberg/status/1331041820516769792)
+* [Technology as it Should Be](https://puri.sm/posts/technology-as-it-should-be/)
 
 ## Philosophy
 
