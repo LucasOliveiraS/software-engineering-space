@@ -149,6 +149,7 @@ The repository is constantly updated with new content.
 * [An API is a user interface](https://www.arp242.net/api-ux.html)
 * [Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 * [Self-documenting Architecture](https://medium.com/nick-tune-tech-strategy-blog/self-documenting-architecture-80c8c2429cb8)
+* [Modern storage is plenty fast. It is the APIs that are bad](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -237,6 +238,9 @@ The repository is constantly updated with new content.
 * [Progress bars still lie: Please fix them](https://web.eecs.utk.edu/~azh/blog/fixprogressbars.html)
 * [The Timing of Evolutionary Transitions Suggests Intelligent Life Is Rare](https://twitter.com/anderssandberg/status/1331041820516769792)
 * [Technology as it Should Be](https://puri.sm/posts/technology-as-it-should-be/)
+* [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://www.nationalgeographic.com/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor/)
+* [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+* [What would happen if computers never got any faster?](https://shkspr.mobi/blog/2020/11/what-would-happen-if-computers-never-got-any-faster/)
 
 ## Philosophy
 
