@@ -50,6 +50,7 @@ The repository is constantly updated with new content.
 * [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
 * [On the Beauty of Python's ExitStack](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 * [High Performance Computing with Python](https://www.youtube.com/watch?v=MM_rg_iF1LA&list=PL1tk5lGm7zvSC4rLm5Y71372R1Yxl2Dg_)
+* [Display Rich Text In The Console Using Python](https://towardsdatascience.com/get-rich-using-python-af66176ece8f)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -78,6 +79,7 @@ The repository is constantly updated with new content.
 * [Go by Example](https://gobyexample.com/)
 * [Three Months of Go (from a Haskeller's perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
 * [The Command Pattern With Go](https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7)
+* [Control Machines With Go Routines](https://levelup.gitconnected.com/control-machines-with-go-routines-fa90c6462bf2)
 
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
@@ -242,6 +244,8 @@ The repository is constantly updated with new content.
 * [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://www.nationalgeographic.com/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor/)
 * [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 * [What would happen if computers never got any faster?](https://shkspr.mobi/blog/2020/11/what-would-happen-if-computers-never-got-any-faster/)
+* [Chess tactics explained](https://www.chesstactics.org/)
+* [Five Lessons From Dave Chappelle](https://stratechery.com/2020/five-lessons-from-dave-chappelle/)
 
 ## Philosophy
 
