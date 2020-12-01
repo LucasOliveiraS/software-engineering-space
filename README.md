@@ -30,6 +30,7 @@ The repository is constantly updated with new content.
 ### Programming
 
 #### `Python`
+* [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/#programming-recommendations)
 * [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [Principles of Data Oriented Programming](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence)
 * [What’s \__init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
