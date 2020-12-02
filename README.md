@@ -104,6 +104,7 @@ The repository is constantly updated with new content.
 * [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
 * [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
 * [What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
+* [John Carmack on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)

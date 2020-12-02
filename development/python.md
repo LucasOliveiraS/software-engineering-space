@@ -38,3 +38,7 @@
 
 * [WSGI](https://wsgi.readthedocs.io/en/latest/index.html)
 * [Gunicorn](https://gunicorn.org/)
+
+### Tests
+
+* [pytest](https://docs.pytest.org/en/stable/)

@@ -12,3 +12,7 @@
 ### Version Manager
 
 * [nvm](https://github.com/nvm-sh/nvm)
+
+### Tests
+
+* [Jest](https://jestjs.io/)
