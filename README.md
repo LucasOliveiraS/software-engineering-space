@@ -103,6 +103,7 @@ The repository is constantly updated with new content.
 * [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
 * [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
 * [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
+* [What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -247,6 +248,7 @@ The repository is constantly updated with new content.
 * [What would happen if computers never got any faster?](https://shkspr.mobi/blog/2020/11/what-would-happen-if-computers-never-got-any-faster/)
 * [Chess tactics explained](https://www.chesstactics.org/)
 * [Five Lessons From Dave Chappelle](https://stratechery.com/2020/five-lessons-from-dave-chappelle/)
+* [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
 
 ## Philosophy
 
