@@ -105,12 +105,14 @@ The repository is constantly updated with new content.
 * [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
 * [What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
 * [John Carmack on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+* [Stored Procedures as a backend](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
 * [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
+* [Sockets In Your Shell](https://who23.github.io/2020/12/03/sockets-in-your-shell.html)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -250,6 +252,7 @@ The repository is constantly updated with new content.
 * [Chess tactics explained](https://www.chesstactics.org/)
 * [Five Lessons From Dave Chappelle](https://stratechery.com/2020/five-lessons-from-dave-chappelle/)
 * [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
+* [Computer latency: 1977-2017](https://danluu.com/input-lag/)
 
 ## Philosophy
 
