@@ -113,6 +113,7 @@ The repository is constantly updated with new content.
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
 * [Sockets In Your Shell](https://who23.github.io/2020/12/03/sockets-in-your-shell.html)
+* [My Writing & Coding Workflow](http://jacobzelko.com/workflow/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -253,6 +254,10 @@ The repository is constantly updated with new content.
 * [Five Lessons From Dave Chappelle](https://stratechery.com/2020/five-lessons-from-dave-chappelle/)
 * [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
 * [Computer latency: 1977-2017](https://danluu.com/input-lag/)
+* [Why Web Scraping Is Vital to Democracy](https://themarkup.org/news/2020/12/03/why-web-scraping-is-vital-to-democracy)
+* [A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)
+* [How I read books: a guide on how to learn](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb)
+* [Roger Penrose: Beauty above all](https://www.the-tls.co.uk/articles/roger-penrose-black-holes-einstein-nobel-prize/)
 
 ## Philosophy
 
