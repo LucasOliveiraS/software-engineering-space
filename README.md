@@ -52,6 +52,7 @@ The repository is constantly updated with new content.
 * [On the Beauty of Python's ExitStack](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 * [High Performance Computing with Python](https://www.youtube.com/watch?v=MM_rg_iF1LA&list=PL1tk5lGm7zvSC4rLm5Y71372R1Yxl2Dg_)
 * [Display Rich Text In The Console Using Python](https://towardsdatascience.com/get-rich-using-python-af66176ece8f)
+* [*args and **kwargs in Python](https://towardsdatascience.com/args-and-kwargs-in-python-6d991a3c1b5e)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -106,6 +107,7 @@ The repository is constantly updated with new content.
 * [What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
 * [John Carmack on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 * [Stored Procedures as a backend](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
+* [Command Line Interface Guidelines](https://clig.dev/)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -258,6 +260,8 @@ The repository is constantly updated with new content.
 * [A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)
 * [How I read books: a guide on how to learn](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb)
 * [Roger Penrose: Beauty above all](https://www.the-tls.co.uk/articles/roger-penrose-black-holes-einstein-nobel-prize/)
+* [This is Real. That's Not](https://streetlifesolutions.blogspot.com/2020/12/this-is-real-thats-not.html)
+* [The Continuous Integration Mystery](https://danhough.com/blog/ci/)
 
 ## Philosophy
 
