@@ -108,6 +108,7 @@ The repository is constantly updated with new content.
 * [John Carmack on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 * [Stored Procedures as a backend](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 * [Command Line Interface Guidelines](https://clig.dev/)
+* [Why Programming is Hard to Fundamentally Improve](https://aidancunniffe.com/why-programming-is-hard-to-fundamentally-improve-4101612d4ad9)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
