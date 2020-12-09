@@ -62,6 +62,7 @@ The repository is constantly updated with new content.
 * [The Amazing Power of JavaScript Proxies](https://levelup.gitconnected.com/the-amazing-power-of-javascript-proxies-aa27c6d06bcb)
 * [80% Cleaner JavaScript Code Using Optional Chaining and Nullish Coalescing](https://medium.com/the-non-traditional-developer/80-cleaner-javascript-code-using-optional-chaining-and-nullish-coalescing-3fb1d1df3867)
 * [11 JavaScript and TypeScript Shorthands You Should Know](https://blog.bitsrc.io/11-javascript-and-typescript-shorthands-you-should-know-690a002674e0)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
 
 #### `TypeScript`
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
@@ -109,6 +110,7 @@ The repository is constantly updated with new content.
 * [Stored Procedures as a backend](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 * [Command Line Interface Guidelines](https://clig.dev/)
 * [Why Programming is Hard to Fundamentally Improve](https://aidancunniffe.com/why-programming-is-hard-to-fundamentally-improve-4101612d4ad9)
+* [Learnable Programming](http://worrydream.com/#!/LearnableProgramming)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -122,6 +124,7 @@ The repository is constantly updated with new content.
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 * [Data Structures You Should Know as a JavaScript Developer](https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
+* [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/)
 
 ### Software architecture and design
 * [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
@@ -263,6 +266,8 @@ The repository is constantly updated with new content.
 * [Roger Penrose: Beauty above all](https://www.the-tls.co.uk/articles/roger-penrose-black-holes-einstein-nobel-prize/)
 * [This is Real. That's Not](https://streetlifesolutions.blogspot.com/2020/12/this-is-real-thats-not.html)
 * [The Continuous Integration Mystery](https://danhough.com/blog/ci/)
+* [Meso-computing and meso-data: the forgotten middle](https://milliams.com/posts/2020/mesocomputing/)
+* [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b)
 
 ## Philosophy
 
