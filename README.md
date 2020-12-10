@@ -268,6 +268,9 @@ The repository is constantly updated with new content.
 * [The Continuous Integration Mystery](https://danhough.com/blog/ci/)
 * [Meso-computing and meso-data: the forgotten middle](https://milliams.com/posts/2020/mesocomputing/)
 * [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b)
+* [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
+* [How many GNU/Linux users are needed to change a light bulb?](https://www.gnu.org/fun/jokes/users-lightbulb.html)
+* [A former Uber engineer's disaster story](https://twitter.com/StanTwinB/status/1336890442768547845)
 
 ## Philosophy
 
