@@ -111,6 +111,7 @@ The repository is constantly updated with new content.
 * [Command Line Interface Guidelines](https://clig.dev/)
 * [Why Programming is Hard to Fundamentally Improve](https://aidancunniffe.com/why-programming-is-hard-to-fundamentally-improve-4101612d4ad9)
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming)
+* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -271,6 +272,8 @@ The repository is constantly updated with new content.
 * [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 * [How many GNU/Linux users are needed to change a light bulb?](https://www.gnu.org/fun/jokes/users-lightbulb.html)
 * [A former Uber engineer's disaster story](https://twitter.com/StanTwinB/status/1336890442768547845)
+* [Am I disabled?](https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person)
+* [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
 
 ## Philosophy
 
