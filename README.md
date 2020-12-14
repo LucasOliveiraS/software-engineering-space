@@ -112,6 +112,7 @@ The repository is constantly updated with new content.
 * [Why Programming is Hard to Fundamentally Improve](https://aidancunniffe.com/why-programming-is-hard-to-fundamentally-improve-4101612d4ad9)
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+* [if..then..else had to be invented!](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -120,6 +121,8 @@ The repository is constantly updated with new content.
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
 * [Sockets In Your Shell](https://who23.github.io/2020/12/03/sockets-in-your-shell.html)
 * [My Writing & Coding Workflow](http://jacobzelko.com/workflow/)
+* [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
+* [A system to organise projects](https://johnnydecimal.com/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -274,6 +277,8 @@ The repository is constantly updated with new content.
 * [A former Uber engineer's disaster story](https://twitter.com/StanTwinB/status/1336890442768547845)
 * [Am I disabled?](https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person)
 * [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
+* [Earnestness](http://paulgraham.com/earnest.html)
+* [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 
 ## Philosophy
 
