@@ -279,6 +279,8 @@ The repository is constantly updated with new content.
 * [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
 * [Earnestness](http://paulgraham.com/earnest.html)
 * [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
+* [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+* [This Is How to Declutter Your Brain so You Can Achieve Higher-Level Thinking](https://medium.com/the-ascent/this-is-how-to-declutter-your-brain-so-you-can-achieve-higher-level-thinking-67de03bc9116)
 
 ## Philosophy
 
@@ -303,6 +305,7 @@ The repository is constantly updated with new content.
 * [ Jim Carrey's Commencement Address at the 2014 MUM Graduation](https://www.youtube.com/watch?v=V80-gPkpH6M)
 * [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [A Ray of Hope: Array Programming for the 21st Century](https://www.youtube.com/watch?v=x1FoTYnJxeY)
+* [The Future of Programming](http://worrydream.com/dbx/)
 
 ## Books
 
