@@ -169,6 +169,7 @@ The repository is constantly updated with new content.
 * [Self-documenting Architecture](https://medium.com/nick-tune-tech-strategy-blog/self-documenting-architecture-80c8c2429cb8)
 * [Modern storage is plenty fast. It is the APIs that are bad](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
 * [A better Kubernetes, from the ground up](https://blog.dave.tf/post/new-kubernetes/)
+* [Life of a Netflix Partner Engineer — The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -281,6 +282,7 @@ The repository is constantly updated with new content.
 * [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [This Is How to Declutter Your Brain so You Can Achieve Higher-Level Thinking](https://medium.com/the-ascent/this-is-how-to-declutter-your-brain-so-you-can-achieve-higher-level-thinking-67de03bc9116)
+* [Empire of fantasy](https://aeon.co/essays/the-rise-and-fall-of-the-oxford-school-of-fantasy-literature)
 
 ## Philosophy
 
