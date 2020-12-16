@@ -53,6 +53,7 @@ The repository is constantly updated with new content.
 * [High Performance Computing with Python](https://www.youtube.com/watch?v=MM_rg_iF1LA&list=PL1tk5lGm7zvSC4rLm5Y71372R1Yxl2Dg_)
 * [Display Rich Text In The Console Using Python](https://towardsdatascience.com/get-rich-using-python-af66176ece8f)
 * [*args and **kwargs in Python](https://towardsdatascience.com/args-and-kwargs-in-python-6d991a3c1b5e)
+* [Scheduling All Kinds of Recurring Jobs with Python](https://towardsdatascience.com/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -113,6 +114,7 @@ The repository is constantly updated with new content.
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 * [if..then..else had to be invented!](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
+* [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -170,6 +172,7 @@ The repository is constantly updated with new content.
 * [Modern storage is plenty fast. It is the APIs that are bad](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
 * [A better Kubernetes, from the ground up](https://blog.dave.tf/post/new-kubernetes/)
 * [Life of a Netflix Partner Engineer — The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
+* [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -283,6 +286,9 @@ The repository is constantly updated with new content.
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [This Is How to Declutter Your Brain so You Can Achieve Higher-Level Thinking](https://medium.com/the-ascent/this-is-how-to-declutter-your-brain-so-you-can-achieve-higher-level-thinking-67de03bc9116)
 * [Empire of fantasy](https://aeon.co/essays/the-rise-and-fall-of-the-oxford-school-of-fantasy-literature)
+* [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/)
+* [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
+* [Sponsoring Open Source Developers](https://cognitect.com/blog/2020/12/15/sponsoring-open-source-developers)
 
 ## Philosophy
 
