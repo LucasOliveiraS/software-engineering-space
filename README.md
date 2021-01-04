@@ -115,6 +115,7 @@ The repository is constantly updated with new content.
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 * [if..then..else had to be invented!](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 * [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
+* [Why Clojure?](https://briansunter.com/blog/why-clojure/)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -173,6 +174,7 @@ The repository is constantly updated with new content.
 * [A better Kubernetes, from the ground up](https://blog.dave.tf/post/new-kubernetes/)
 * [Life of a Netflix Partner Engineer — The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
 * [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
+* [Dockerfile best practices](https://github.com/hexops/dockerfile)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -289,6 +291,9 @@ The repository is constantly updated with new content.
 * [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/)
 * [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [Sponsoring Open Source Developers](https://cognitect.com/blog/2020/12/15/sponsoring-open-source-developers)
+* [The Yale Manual for Psilocybin-Assisted Therapy of Depression](https://psyarxiv.com/u6v9y)
+* [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [ Castlevania III Password Algorithm](https://meatfighter.com/castlevania3-password/)
 
 ## Philosophy
 
