@@ -293,7 +293,9 @@ The repository is constantly updated with new content.
 * [Sponsoring Open Source Developers](https://cognitect.com/blog/2020/12/15/sponsoring-open-source-developers)
 * [The Yale Manual for Psilocybin-Assisted Therapy of Depression](https://psyarxiv.com/u6v9y)
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-* [ Castlevania III Password Algorithm](https://meatfighter.com/castlevania3-password/)
+* [Castlevania III Password Algorithm](https://meatfighter.com/castlevania3-password/)
+* [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
+* [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
 
 ## Philosophy
 
