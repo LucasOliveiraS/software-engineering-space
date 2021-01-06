@@ -126,6 +126,7 @@ The repository is constantly updated with new content.
 * [My Writing & Coding Workflow](http://jacobzelko.com/workflow/)
 * [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 * [A system to organise projects](https://johnnydecimal.com/)
+* [What I Use Now Instead Of Google](https://kiramclean.com/blog/what-i-use-now-instead-of-google/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -175,6 +176,7 @@ The repository is constantly updated with new content.
 * [Life of a Netflix Partner Engineer — The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
 * [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 * [Dockerfile best practices](https://github.com/hexops/dockerfile)
+* [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
