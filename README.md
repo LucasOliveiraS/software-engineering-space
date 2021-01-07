@@ -88,6 +88,7 @@ The repository is constantly updated with new content.
 
 #### `Elixir`
 * [Elixir School](https://elixirschool.com/en/)
+* [How OTP Applications are structured](https://blog.appsignal.com/2018/09/18/elixir-alchemy-how-otp-applications-are-structured.html#:~:text=OTP%2C%20the%20framework%20that%20provides,code%20into%20units%20or%20components.&text=An%20application%20is%20a%20component,can%20take%20its%20own%20configuration.)
 
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
@@ -305,6 +306,7 @@ The repository is constantly updated with new content.
 * [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
 * [Designing Engineering Organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/)
+* [A High School Teacher Was Told Her Underprivileged Students Were Too Dumb to Read](https://medium.com/the-ascent/a-high-school-teacher-was-told-her-underprivileged-students-were-too-dumb-to-read-daf665042d13)
 
 ## Philosophy
 
@@ -350,6 +352,7 @@ The repository is constantly updated with new content.
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 * [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 * [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
+* [Código Fonte TV](https://www.youtube.com/c/codigofontetv)
 
 ## Podcasts
 
