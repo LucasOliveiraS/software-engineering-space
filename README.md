@@ -54,6 +54,7 @@ The repository is constantly updated with new content.
 * [Display Rich Text In The Console Using Python](https://towardsdatascience.com/get-rich-using-python-af66176ece8f)
 * [*args and **kwargs in Python](https://towardsdatascience.com/args-and-kwargs-in-python-6d991a3c1b5e)
 * [Scheduling All Kinds of Recurring Jobs with Python](https://towardsdatascience.com/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc)
+* [4 Advanced Tricks With Python Functions You Might Not Know](https://medium.com/better-programming/4-advanced-tricks-with-python-functions-you-might-not-know-d1214d751741)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -84,6 +85,9 @@ The repository is constantly updated with new content.
 * [Three Months of Go (from a Haskeller's perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
 * [The Command Pattern With Go](https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7)
 * [Control Machines With Go Routines](https://levelup.gitconnected.com/control-machines-with-go-routines-fa90c6462bf2)
+
+#### `Elixir`
+* [Elixir School](https://elixirschool.com/en/)
 
 #### `Git/GitHub`
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
@@ -116,6 +120,7 @@ The repository is constantly updated with new content.
 * [if..then..else had to be invented!](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 * [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
 * [Why Clojure?](https://briansunter.com/blog/why-clojure/)
+* [What does mastery look like in software engineering?](https://news.ycombinator.com/item?id=25643940)
 
 #### `Tips`
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
@@ -127,6 +132,7 @@ The repository is constantly updated with new content.
 * [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 * [A system to organise projects](https://johnnydecimal.com/)
 * [What I Use Now Instead Of Google](https://kiramclean.com/blog/what-i-use-now-instead-of-google/)
+* [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -298,6 +304,7 @@ The repository is constantly updated with new content.
 * [Castlevania III Password Algorithm](https://meatfighter.com/castlevania3-password/)
 * [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
+* [Designing Engineering Organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/)
 
 ## Philosophy
 
