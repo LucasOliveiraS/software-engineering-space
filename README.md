@@ -55,6 +55,8 @@ The repository is constantly updated with new content.
 * [*args and **kwargs in Python](https://towardsdatascience.com/args-and-kwargs-in-python-6d991a3c1b5e)
 * [Scheduling All Kinds of Recurring Jobs with Python](https://towardsdatascience.com/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc)
 * [4 Advanced Tricks With Python Functions You Might Not Know](https://medium.com/better-programming/4-advanced-tricks-with-python-functions-you-might-not-know-d1214d751741)
+* [Scipy Lecture Notes](http://scipy-lectures.org/index.html)
+* [Peter Norvig's “pytudes” for Advent of Code 2020](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
 
 #### `JavaScript`
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
@@ -184,6 +186,7 @@ The repository is constantly updated with new content.
 * [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 * [Dockerfile best practices](https://github.com/hexops/dockerfile)
 * [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+* [Docker Image Optimization: from 1.16GB to 22.4MB](https://medium.com/the-agile-crafter/docker-image-optimization-from-1-16gb-to-22-4mb-53fdb4c53311)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -307,6 +310,8 @@ The repository is constantly updated with new content.
 * [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
 * [Designing Engineering Organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/)
 * [A High School Teacher Was Told Her Underprivileged Students Were Too Dumb to Read](https://medium.com/the-ascent/a-high-school-teacher-was-told-her-underprivileged-students-were-too-dumb-to-read-daf665042d13)
+* [College Campuses Are Designed at Human-Scale. Our Cities Can Be Too](https://www.strongtowns.org/journal/2021/1/6/college-campuses-as-a-model-for-urban-planning)
+* [Why One Side of Your Nose Always Feels More Congested Than the Other](https://medium.com/live-your-life-on-purpose/why-one-side-of-your-nose-always-feels-more-congested-than-the-other-78fc8fb41f8e)
 
 ## Philosophy
 
