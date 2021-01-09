@@ -136,6 +136,7 @@ The repository is constantly updated with new content.
 * [A system to organise projects](https://johnnydecimal.com/)
 * [What I Use Now Instead Of Google](https://kiramclean.com/blog/what-i-use-now-instead-of-google/)
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
+* [Introduction and Strategies To Handle Challenges in Caching](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
 
 ### Algorithms and data structures
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
@@ -312,6 +313,7 @@ The repository is constantly updated with new content.
 * [A High School Teacher Was Told Her Underprivileged Students Were Too Dumb to Read](https://medium.com/the-ascent/a-high-school-teacher-was-told-her-underprivileged-students-were-too-dumb-to-read-daf665042d13)
 * [College Campuses Are Designed at Human-Scale. Our Cities Can Be Too](https://www.strongtowns.org/journal/2021/1/6/college-campuses-as-a-model-for-urban-planning)
 * [Why One Side of Your Nose Always Feels More Congested Than the Other](https://medium.com/live-your-life-on-purpose/why-one-side-of-your-nose-always-feels-more-congested-than-the-other-78fc8fb41f8e)
+* [Next Gen Static Blogging](https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging)
 
 ## Philosophy
 
