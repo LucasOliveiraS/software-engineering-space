@@ -188,6 +188,7 @@ The repository is constantly updated with new content.
 * [Dockerfile best practices](https://github.com/hexops/dockerfile)
 * [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 * [Docker Image Optimization: from 1.16GB to 22.4MB](https://medium.com/the-agile-crafter/docker-image-optimization-from-1-16gb-to-22-4mb-53fdb4c53311)
+* [Design Uber’s Backend: A Systems Design Walkthrough](https://medium.com/better-programming/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97)
 
 ### Testing
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
@@ -314,6 +315,8 @@ The repository is constantly updated with new content.
 * [College Campuses Are Designed at Human-Scale. Our Cities Can Be Too](https://www.strongtowns.org/journal/2021/1/6/college-campuses-as-a-model-for-urban-planning)
 * [Why One Side of Your Nose Always Feels More Congested Than the Other](https://medium.com/live-your-life-on-purpose/why-one-side-of-your-nose-always-feels-more-congested-than-the-other-78fc8fb41f8e)
 * [Next Gen Static Blogging](https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging)
+* [Why Haskell is our first choice for building production software systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
+* [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 
 ## Philosophy
 
@@ -344,6 +347,8 @@ The repository is constantly updated with new content.
 
 * [Structure and Interpretation of Computer Programs.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 * [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/ESEUR.pdf)
+* [Algorithms for Decision Making](http://algorithmsbook.com/files/dm.pdf)
+* [St. Benedict’s Rule for Monasteries](https://www.gutenberg.org/files/50040/50040-h/50040-h.html#prologue)
 
 ## Youtube channels
 
