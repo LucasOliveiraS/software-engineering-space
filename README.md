@@ -30,6 +30,7 @@ The repository is constantly updated with new content.
 ### Programming
 
 #### `Python`
+
 * [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/#programming-recommendations)
 * [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [Principles of Data Oriented Programming](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence)
@@ -45,7 +46,7 @@ The repository is constantly updated with new content.
 * [Analyzing Python Code with Python](https://rotemtam.com/2020/08/13/python-ast/)
 * [5 Advanced Python Concepts: Explanations and Applications](https://medium.com/better-programming/5-advanced-python-concepts-explanations-and-applications-99a03f6bd1bd)
 * [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
-* [Data-oriented Programming in Python ](https://www.moderndescartes.com/essays/data_oriented_python/)
+* [Data-oriented Programming in Python](https://www.moderndescartes.com/essays/data_oriented_python/)
 * [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/#what-is-a-thread)
 * [Deploying a Simple UI for Python](https://towardsdatascience.com/deploying-a-simple-ui-for-python-88e8e7cbbf61)
 * [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
@@ -59,6 +60,7 @@ The repository is constantly updated with new content.
 * [Peter Norvig's “pytudes” for Advent of Code 2020](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
 
 #### `JavaScript`
+
 * [My favourite Javascript learning resources on Github ](https://dev.to/junlow/my-favourite-javascript-learning-resources-on-github-4okb)
 * [Functors in JavaScript](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
 * [Module Pattern in JavaScript](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
@@ -69,11 +71,13 @@ The repository is constantly updated with new content.
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 
 #### `TypeScript`
+
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 * [Monoids in TypeScript](https://functionalprogramming.medium.com/monoids-in-typescript-59a9c1510993)
 * [Continuations in TypeScript](https://itnext.io/continuations-in-typescript-db18402010bc)
 
 #### `Node.js`
+
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [Design patterns in Node.js: A practical guide](https://blog.logrocket.com/design-patterns-in-node-js/)
 * [Clean Node.js Architecture | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/clean-nodejs-architecture/)
@@ -81,23 +85,28 @@ The repository is constantly updated with new content.
 * [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 
 #### `GO`
+
 * [New Case Studies About Google’s Use of Go ](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
 * [Functional Go](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
 * [Go by Example](https://gobyexample.com/)
 * [Three Months of Go (from a Haskeller's perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
 * [The Command Pattern With Go](https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7)
 * [Control Machines With Go Routines](https://levelup.gitconnected.com/control-machines-with-go-routines-fa90c6462bf2)
+* [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
 
 #### `Elixir`
+
 * [Elixir School](https://elixirschool.com/en/)
 * [How OTP Applications are structured](https://blog.appsignal.com/2018/09/18/elixir-alchemy-how-otp-applications-are-structured.html#:~:text=OTP%2C%20the%20framework%20that%20provides,code%20into%20units%20or%20components.&text=An%20application%20is%20a%20component,can%20take%20its%20own%20configuration.)
 
 #### `Git/GitHub`
+
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
 * [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
 * [Write Better Commits With Semantic Commits](https://medium.com/swlh/write-better-commits-with-semantic-commits-3316c68763f6)
 
 #### `Concepts`
+
 * [Assessing Abstractions](https://stopa.io/post/245)
 * [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
 * [Dynamic Programming Made Easy](https://www.freecodecamp.org/news/dynamic-programming-made-easy/)
@@ -126,6 +135,7 @@ The repository is constantly updated with new content.
 * [What does mastery look like in software engineering?](https://news.ycombinator.com/item?id=25643940)
 
 #### `Tips`
+
 * [How You Can Avoid Using Else in Your Code](https://levelup.gitconnected.com/how-you-can-avoid-using-else-in-your-code-871197a1adbc)
 * [Replacing If-Else With Commands and Handlers](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
@@ -139,12 +149,14 @@ The repository is constantly updated with new content.
 * [Introduction and Strategies To Handle Challenges in Caching](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
 
 ### Algorithms and data structures
+
 * [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 * [Data Structures You Should Know as a JavaScript Developer](https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/)
 
 ### Software architecture and design
+
 * [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Building Microservices? Here is what you should know](https://cloudncode.blog/2016/07/22/msa-getting-started/)
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
@@ -191,6 +203,7 @@ The repository is constantly updated with new content.
 * [Design Uber’s Backend: A Systems Design Walkthrough](https://medium.com/better-programming/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97)
 
 ### Testing
+
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 * [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
 * [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
@@ -200,10 +213,12 @@ The repository is constantly updated with new content.
 * [How To Write Unit Tests For Logging ](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 
 ### Quantum computing
+
 * [The Need, Promise, and Reality of Quantum Computing](https://towardsdatascience.com/the-need-promise-and-reality-of-quantum-computing-4264ce15c6c0)
 * [Introductory lectures on quantum computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)
 
 ### General
+
 * [Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Why it is Important that Software Projects Fail](https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html)
@@ -317,10 +332,14 @@ The repository is constantly updated with new content.
 * [Next Gen Static Blogging](https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging)
 * [Why Haskell is our first choice for building production software systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
 * [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+* [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
+* [I received first-ever donation on my open-source side project and it felt great!](https://gourav.io/blog/first-donation-on-open-source-side-project)
+* [The First Question to Ask Yourself When You Sit Down to Work](https://forge.medium.com/the-first-question-to-ask-yourself-when-you-sit-down-to-work-69366165d8a)
 
 ## Philosophy
 
 ### Get out of the Matrix
+
 * [Are We Living in a Simulation?](https://www.simulation-argument.com/simulation.pdf)
 * [Jailbreaking the Simulation](https://www.youtube.com/watch?v=ESXOAJRdcwQ)
 * [Are We Living in a Simulation?](https://www.youtube.com/watch?v=_SpptYg_0Rs)
@@ -353,6 +372,7 @@ The repository is constantly updated with new content.
 ## Youtube channels
 
 #### English
+
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
@@ -360,6 +380,7 @@ The repository is constantly updated with new content.
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 #### Portuguese
+
 * [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 * [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
