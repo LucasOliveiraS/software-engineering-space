@@ -201,6 +201,8 @@ The repository is constantly updated with new content.
 * [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 * [Docker Image Optimization: from 1.16GB to 22.4MB](https://medium.com/the-agile-crafter/docker-image-optimization-from-1-16gb-to-22-4mb-53fdb4c53311)
 * [Design Uber’s Backend: A Systems Design Walkthrough](https://medium.com/better-programming/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97)
+* [Building a Basic Data Lake With Prefect, S3, Glue, and Athena](https://medium.com/swlh/building-a-basic-data-lake-with-prefect-s3-glue-and-athena-676410fbbdc4)
+* [How Postman Engineering handles a million concurrent connections](https://medium.com/better-practices/how-postman-engineering-handles-a-million-concurrent-connections-15c8807f6393)
 
 ### Testing
 
@@ -335,6 +337,7 @@ The repository is constantly updated with new content.
 * [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
 * [I received first-ever donation on my open-source side project and it felt great!](https://gourav.io/blog/first-donation-on-open-source-side-project)
 * [The First Question to Ask Yourself When You Sit Down to Work](https://forge.medium.com/the-first-question-to-ask-yourself-when-you-sit-down-to-work-69366165d8a)
+* [What is Social Cooling?](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/)
 
 ## Philosophy
 
