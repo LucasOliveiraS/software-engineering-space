@@ -147,6 +147,7 @@ The repository is constantly updated with new content.
 * [What I Use Now Instead Of Google](https://kiramclean.com/blog/what-i-use-now-instead-of-google/)
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 * [Introduction and Strategies To Handle Challenges in Caching](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
+* [An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
 
 ### Algorithms and data structures
 
@@ -338,6 +339,8 @@ The repository is constantly updated with new content.
 * [I received first-ever donation on my open-source side project and it felt great!](https://gourav.io/blog/first-donation-on-open-source-side-project)
 * [The First Question to Ask Yourself When You Sit Down to Work](https://forge.medium.com/the-first-question-to-ask-yourself-when-you-sit-down-to-work-69366165d8a)
 * [What is Social Cooling?](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/)
+* [NULL](https://popey.com/blog/2021/01/null/)
+* [McDonald’s Theory On How Best to Rescue Conversations](https://karthrajan.medium.com/mcdonalds-theory-on-how-best-to-rescue-conversations-e65c23ad41b9)
 
 ## Philosophy
 
