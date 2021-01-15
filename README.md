@@ -58,6 +58,7 @@ The repository is constantly updated with new content.
 * [4 Advanced Tricks With Python Functions You Might Not Know](https://medium.com/better-programming/4-advanced-tricks-with-python-functions-you-might-not-know-d1214d751741)
 * [Scipy Lecture Notes](http://scipy-lectures.org/index.html)
 * [Peter Norvig's “pytudes” for Advent of Code 2020](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
+* [How To Become A Task Automation Hero Using Python [With Examples]](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
 
 #### `JavaScript`
 
@@ -133,6 +134,7 @@ The repository is constantly updated with new content.
 * [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
 * [Why Clojure?](https://briansunter.com/blog/why-clojure/)
 * [What does mastery look like in software engineering?](https://news.ycombinator.com/item?id=25643940)
+* [Functional Programming, Simplified](https://medium.com/better-programming/simplified-functionaldd-programming-fdc07b4b1084)
 
 #### `Tips`
 
@@ -341,6 +343,8 @@ The repository is constantly updated with new content.
 * [What is Social Cooling?](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/)
 * [NULL](https://popey.com/blog/2021/01/null/)
 * [McDonald’s Theory On How Best to Rescue Conversations](https://karthrajan.medium.com/mcdonalds-theory-on-how-best-to-rescue-conversations-e65c23ad41b9)
+* [Ask HN: What are you working on?](https://news.ycombinator.com/item?id=25783152)
+* [Why You Should Surround Yourself With More Books Than You’ll Ever Have Time to Read](https://entrylevelrebel.medium.com/why-you-should-surround-yourself-with-more-books-than-youll-ever-have-time-to-read-aeb9cca212a4)
 
 ## Philosophy
 
@@ -367,6 +371,7 @@ The repository is constantly updated with new content.
 * [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [A Ray of Hope: Array Programming for the 21st Century](https://www.youtube.com/watch?v=x1FoTYnJxeY)
 * [The Future of Programming](http://worrydream.com/dbx/)
+* [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 
 ## Books
 
