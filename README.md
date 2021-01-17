@@ -59,6 +59,7 @@ The repository is constantly updated with new content.
 * [Scipy Lecture Notes](http://scipy-lectures.org/index.html)
 * [Peter Norvig's “pytudes” for Advent of Code 2020](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
 * [How To Become A Task Automation Hero Using Python [With Examples]](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
+* [Stop Using Print to Debug in Python. Use Icecream Instead](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc)
 
 #### `JavaScript`
 
@@ -76,6 +77,7 @@ The repository is constantly updated with new content.
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 * [Monoids in TypeScript](https://functionalprogramming.medium.com/monoids-in-typescript-59a9c1510993)
 * [Continuations in TypeScript](https://itnext.io/continuations-in-typescript-db18402010bc)
+* [Crazy, Powerful TypeScript 4.1 Features](https://medium.com/swlh/crazy-powerful-typescript-4-1-features-26036f4de6bc)
 
 #### `Node.js`
 
@@ -94,6 +96,7 @@ The repository is constantly updated with new content.
 * [The Command Pattern With Go](https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7)
 * [Control Machines With Go Routines](https://levelup.gitconnected.com/control-machines-with-go-routines-fa90c6462bf2)
 * [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
+* [REST Servers in Go: Part 1 - standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 
 #### `Elixir`
 
@@ -150,6 +153,7 @@ The repository is constantly updated with new content.
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 * [Introduction and Strategies To Handle Challenges in Caching](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
 * [An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
+* [Learn Less, Achieve More: How To Optimize Your Learning](https://medium.com/better-programming/learn-less-achieve-more-how-to-optimize-your-learning-1a214ce697c8)
 
 ### Algorithms and data structures
 
@@ -206,6 +210,7 @@ The repository is constantly updated with new content.
 * [Design Uber’s Backend: A Systems Design Walkthrough](https://medium.com/better-programming/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97)
 * [Building a Basic Data Lake With Prefect, S3, Glue, and Athena](https://medium.com/swlh/building-a-basic-data-lake-with-prefect-s3-glue-and-athena-676410fbbdc4)
 * [How Postman Engineering handles a million concurrent connections](https://medium.com/better-practices/how-postman-engineering-handles-a-million-concurrent-connections-15c8807f6393)
+* [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 
 ### Testing
 
@@ -345,6 +350,10 @@ The repository is constantly updated with new content.
 * [McDonald’s Theory On How Best to Rescue Conversations](https://karthrajan.medium.com/mcdonalds-theory-on-how-best-to-rescue-conversations-e65c23ad41b9)
 * [Ask HN: What are you working on?](https://news.ycombinator.com/item?id=25783152)
 * [Why You Should Surround Yourself With More Books Than You’ll Ever Have Time to Read](https://entrylevelrebel.medium.com/why-you-should-surround-yourself-with-more-books-than-youll-ever-have-time-to-read-aeb9cca212a4)
+* [Running a fake power plant on the internet for a month](https://grimminck.medium.com/running-a-fake-power-plant-on-the-internet-for-a-month-4a624f685aaa)
+* [The World’s Oldest Story? Astronomers Say Global Myths About ‘Seven Sisters’ Stars May Reach Back 100,000 Years](https://singularityhub.com/2021/01/10/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100000-years/)
+* [I Think Beethoven Encoded His Deafness in His Music](https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html)
+* [The Plant That Could Save The World](https://medium.com/predict/the-plant-that-could-save-the-world-7490ef7cda2f)
 
 ## Philosophy
 
