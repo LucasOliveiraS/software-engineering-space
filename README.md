@@ -13,11 +13,12 @@
     - [Quantum computing](#quantum-computing)
     - [General](#general)
 3. [Philosophy](#philosophy)
-4. [Talks](#talks)
-5. [Books](#books)
-6. [Repositories](#repositories)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Psychedelics](#Psychedelics)
+5. [Talks](#talks)
+6. [Books](#books)
+7. [Repositories](#repositories)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## About the project
 
@@ -60,6 +61,7 @@ The repository is constantly updated with new content.
 * [Peter Norvig's “pytudes” for Advent of Code 2020](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
 * [How To Become A Task Automation Hero Using Python [With Examples]](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
 * [Stop Using Print to Debug in Python. Use Icecream Instead](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc)
+* [A comprehensive guide to debugging Python scripts in VS Code](https://towardsdatascience.com/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8)
 
 #### `JavaScript`
 
@@ -108,6 +110,7 @@ The repository is constantly updated with new content.
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
 * [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
 * [Write Better Commits With Semantic Commits](https://medium.com/swlh/write-better-commits-with-semantic-commits-3316c68763f6)
+* [Git Prettier Commits with Husky](https://levelup.gitconnected.com/git-prettier-commits-with-husky-e5bcf2da4dac)
 
 #### `Concepts`
 
@@ -211,6 +214,7 @@ The repository is constantly updated with new content.
 * [Building a Basic Data Lake With Prefect, S3, Glue, and Athena](https://medium.com/swlh/building-a-basic-data-lake-with-prefect-s3-glue-and-athena-676410fbbdc4)
 * [How Postman Engineering handles a million concurrent connections](https://medium.com/better-practices/how-postman-engineering-handles-a-million-concurrent-connections-15c8807f6393)
 * [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
+* [From 15,000 Database Connections to Under 100](https://medium.com/better-programming/from-15-000-database-connections-to-under-100-dfd34062da4c)
 
 ### Testing
 
@@ -354,6 +358,10 @@ The repository is constantly updated with new content.
 * [The World’s Oldest Story? Astronomers Say Global Myths About ‘Seven Sisters’ Stars May Reach Back 100,000 Years](https://singularityhub.com/2021/01/10/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100000-years/)
 * [I Think Beethoven Encoded His Deafness in His Music](https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html)
 * [The Plant That Could Save The World](https://medium.com/predict/the-plant-that-could-save-the-world-7490ef7cda2f)
+* [Context switching costs more than we give it credit for](https://thinkingthrough.substack.com/p/context-switching-cost-more-than)
+* [Can You Treat Loneliness By Creating an Imaginary Friend?](https://nautil.us/blog/can-you-treat-loneliness-by-creating-an-imaginary-friend)
+* [Why we should review broken products instead of new ones](https://www.buyforlife.com/blog/6CNqJGMKraaQhfivS0EH6L/why-we-should-review-broken-products-instead-of-new-ones)
+* [Dostoevsky in Love by Alex Christofi review – unpredictable, dangerous and thrilling](https://www.theguardian.com/books/2021/jan/14/dostoevsky-in-love-by-alex-christofi-review-unpredictable-dangerous-and-thrilling)
 
 ## Philosophy
 
@@ -366,6 +374,12 @@ The repository is constantly updated with new content.
 * [Nick Bostrom on the Joe Rogan Podcast Conversation About the Simulation](https://www.youtube.com/watch?v=vx7DLImJ1Mw)
 * [AI Expert Lex Fridman Weighs in on Simulation Theory](https://www.youtube.com/watch?v=ZFID_rgzE_Y)
 * [We exist inside the story that the brain tells itself](https://www.youtube.com/watch?v=tyrPMVMb-Uw&t=11s)
+
+## Psychedelics
+
+* [Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers](https://pubs.acs.org/doi/10.1021/acsptsci.0c00099)
+* [Silicon Valley Is Micro-Dosing ‘Magic Mushrooms’ To Boost Their Careers](https://www.forbes.com/sites/jackkelly/2020/01/17/silicon-valley-is-micro-dosing-magic-mushrooms-to-boost-their-careers/?sh=6f52e26b5822)
+* ['It makes me enjoy playing with the kids': is microdosing mushrooms going mainstream?](https://www.theguardian.com/science/2019/may/03/psychedelic-drugs-women-taking-tiny-doses-hattie-garlick)
 
 ## Talks
 
@@ -384,7 +398,7 @@ The repository is constantly updated with new content.
 
 ## Books
 
-* [Structure and Interpretation of Computer Programs.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 * [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/ESEUR.pdf)
 * [Algorithms for Decision Making](http://algorithmsbook.com/files/dm.pdf)
 * [St. Benedict’s Rule for Monasteries](https://www.gutenberg.org/files/50040/50040-h/50040-h.html#prologue)
@@ -398,6 +412,7 @@ The repository is constantly updated with new content.
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 * [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Everyday Astronaut](https://www.youtube.com/c/EverydayAstronaut)
 
 #### Portuguese
 
