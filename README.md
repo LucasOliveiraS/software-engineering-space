@@ -362,6 +362,7 @@ The repository is constantly updated with new content.
 * [Can You Treat Loneliness By Creating an Imaginary Friend?](https://nautil.us/blog/can-you-treat-loneliness-by-creating-an-imaginary-friend)
 * [Why we should review broken products instead of new ones](https://www.buyforlife.com/blog/6CNqJGMKraaQhfivS0EH6L/why-we-should-review-broken-products-instead-of-new-ones)
 * [Dostoevsky in Love by Alex Christofi review – unpredictable, dangerous and thrilling](https://www.theguardian.com/books/2021/jan/14/dostoevsky-in-love-by-alex-christofi-review-unpredictable-dangerous-and-thrilling)
+* [Earnestness](http://www.paulgraham.com/earnest.html)
 
 ## Philosophy
 
