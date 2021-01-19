@@ -99,6 +99,7 @@ The repository is constantly updated with new content.
 * [Control Machines With Go Routines](https://levelup.gitconnected.com/control-machines-with-go-routines-fa90c6462bf2)
 * [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
 * [REST Servers in Go: Part 1 - standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+* [Non-Blocking Parallelism for Services in Go](http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/)
 
 #### `Elixir`
 
@@ -141,6 +142,9 @@ The repository is constantly updated with new content.
 * [Why Clojure?](https://briansunter.com/blog/why-clojure/)
 * [What does mastery look like in software engineering?](https://news.ycombinator.com/item?id=25643940)
 * [Functional Programming, Simplified](https://medium.com/better-programming/simplified-functionaldd-programming-fdc07b4b1084)
+* [User power, not power users: htop and its design philosophy](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
+* [Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
+* [Software Engineering is a learning process, working code a side effect](https://www.lambdabytes.io/posts/selearning/)
 
 #### `Tips`
 
@@ -157,6 +161,7 @@ The repository is constantly updated with new content.
 * [Introduction and Strategies To Handle Challenges in Caching](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
 * [An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
 * [Learn Less, Achieve More: How To Optimize Your Learning](https://medium.com/better-programming/learn-less-achieve-more-how-to-optimize-your-learning-1a214ce697c8)
+* [3 Tips That Can Tremendously Improve Your Startup’s Culture](https://levelup.gitconnected.com/3-tips-that-can-tremendously-improve-your-startups-culture-7366c0cad0cd)
 
 ### Algorithms and data structures
 
@@ -215,6 +220,7 @@ The repository is constantly updated with new content.
 * [How Postman Engineering handles a million concurrent connections](https://medium.com/better-practices/how-postman-engineering-handles-a-million-concurrent-connections-15c8807f6393)
 * [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 * [From 15,000 Database Connections to Under 100](https://medium.com/better-programming/from-15-000-database-connections-to-under-100-dfd34062da4c)
+* [Event-Driven Architecture](https://medium.com/swlh/event-driven-architecture-94419ae175e)
 
 ### Testing
 
@@ -363,6 +369,11 @@ The repository is constantly updated with new content.
 * [Why we should review broken products instead of new ones](https://www.buyforlife.com/blog/6CNqJGMKraaQhfivS0EH6L/why-we-should-review-broken-products-instead-of-new-ones)
 * [Dostoevsky in Love by Alex Christofi review – unpredictable, dangerous and thrilling](https://www.theguardian.com/books/2021/jan/14/dostoevsky-in-love-by-alex-christofi-review-unpredictable-dangerous-and-thrilling)
 * [Earnestness](http://www.paulgraham.com/earnest.html)
+* [I wasted $40k on a fantastic startup idea](https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea)
+* [The short, tormented life of computer genius Phil Katz](https://web.archive.org/web/20000829071343/http://www2.jsonline.com/news/state/may00/katz21052000a.asp)
+* [Learning curve: Learning to suffer](https://backpackinglight.com/learning-curve-learning-to-suffer/)
+* [The Slowest Modern Programming Languages](https://towardsdatascience.com/the-slowest-modern-programming-languages-d29ea2306675)
+* [I Quit Daily Routines and Moved to a 168 Hour Cycle and My Productivity Increased](https://medium.com/better-humans/i-quit-daily-routines-and-moved-to-a-168-hour-cycle-and-my-productivity-increased-2f83ec6fc166)
 
 ## Philosophy
 
