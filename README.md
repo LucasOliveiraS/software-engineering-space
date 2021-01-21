@@ -101,6 +101,7 @@ The repository is constantly updated with new content.
 * [REST Servers in Go: Part 1 - standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 * [Non-Blocking Parallelism for Services in Go](http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/)
 * [Errors vs. exceptions in Go and C++ in 2020](https://dr-knz.net/go-errors-vs-exceptions-2020.html)
+* [I Mastered Golang Basics by Solving These 15 Project Euler Problems](https://medium.com/better-programming/i-mastered-golang-basics-by-solving-these-15-project-euler-problems-1254a3897cf8)
 
 #### `Elixir`
 
@@ -147,6 +148,7 @@ The repository is constantly updated with new content.
 * [Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
 * [Software Engineering is a learning process, working code a side effect](https://www.lambdabytes.io/posts/selearning/)
 * [Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/)
+* [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
 
 #### `Tips`
 
@@ -241,6 +243,7 @@ The repository is constantly updated with new content.
 
 * [The Need, Promise, and Reality of Quantum Computing](https://towardsdatascience.com/the-need-promise-and-reality-of-quantum-computing-4264ce15c6c0)
 * [Introductory lectures on quantum computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)
+* [A Deep Tech Dive into Quantum Computing](https://levelup.gitconnected.com/a-deep-tech-dive-into-quantum-computing-c7a9d10f1d23)
 
 ### General
 
@@ -380,6 +383,9 @@ The repository is constantly updated with new content.
 * [The Slowest Modern Programming Languages](https://towardsdatascience.com/the-slowest-modern-programming-languages-d29ea2306675)
 * [I Quit Daily Routines and Moved to a 168 Hour Cycle and My Productivity Increased](https://medium.com/better-humans/i-quit-daily-routines-and-moved-to-a-168-hour-cycle-and-my-productivity-increased-2f83ec6fc166)
 * [The State of State Machines](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
+* [How Religion Shaped Modern Economics](https://www.wsj.com/articles/how-religion-shaped-modern-economics-11610643698)
+* [I built an online interactive course that helps you learn Vim faster](https://www.vim.so/)
+* [Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739)
 
 ## Philosophy
 
