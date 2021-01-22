@@ -102,6 +102,7 @@ The repository is constantly updated with new content.
 * [Non-Blocking Parallelism for Services in Go](http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/)
 * [Errors vs. exceptions in Go and C++ in 2020](https://dr-knz.net/go-errors-vs-exceptions-2020.html)
 * [I Mastered Golang Basics by Solving These 15 Project Euler Problems](https://medium.com/better-programming/i-mastered-golang-basics-by-solving-these-15-project-euler-problems-1254a3897cf8)
+* [gRPC: How to Make Client Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-client-streaming-calls-5c731197585)
 
 #### `Elixir`
 
@@ -149,6 +150,7 @@ The repository is constantly updated with new content.
 * [Software Engineering is a learning process, working code a side effect](https://www.lambdabytes.io/posts/selearning/)
 * [Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/)
 * [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
+* [Dynamic Programming: Memoization vs Tabulation](https://blog.bitsrc.io/dynamic-programming-memoization-vs-tabulation-9602a8dfaf46)
 
 #### `Tips`
 
@@ -168,6 +170,7 @@ The repository is constantly updated with new content.
 * [3 Tips That Can Tremendously Improve Your Startup’s Culture](https://levelup.gitconnected.com/3-tips-that-can-tremendously-improve-your-startups-culture-7366c0cad0cd)
 * [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)
 * [A Better Note-Taking System for Your Scattered Brain](https://forge.medium.com/a-better-note-taking-system-for-your-scattered-brain-a65a398bd1f4)
+* [Ultralearning: How I Became a Top 20% Chess Player in Under 50 Hours](https://medium.com/better-humans/ultralearning-how-i-became-a-top-20-chess-player-in-under-50-hours-4e085a3b8a4b)
 
 ### Algorithms and data structures
 
@@ -237,7 +240,7 @@ The repository is constantly updated with new content.
 * [TDD Guided by ZOMBIES](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 * [TDD Revisited](https://danuker.go.ro/tdd-revisited-pytest-updated-2020-09-03.html#update-2020-09-03-keep-coupling-low)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
-* [How To Write Unit Tests For Logging ](https://principal-it.eu/2020/11/unit-tests-for-logging/)
+* [How To Write Unit Tests For Logging](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 
 ### Quantum computing
 
@@ -386,6 +389,9 @@ The repository is constantly updated with new content.
 * [How Religion Shaped Modern Economics](https://www.wsj.com/articles/how-religion-shaped-modern-economics-11610643698)
 * [I built an online interactive course that helps you learn Vim faster](https://www.vim.so/)
 * [Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739)
+* [Still Alive](https://astralcodexten.substack.com/p/still-alive)
+* [Loon’s final flight](https://blog.x.company/loons-final-flight-e9d699123a96)
+* [Git News](https://gitnews.tech/)
 
 ## Philosophy
 
