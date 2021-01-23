@@ -231,6 +231,7 @@ The repository is constantly updated with new content.
 * [From 15,000 Database Connections to Under 100](https://medium.com/better-programming/from-15-000-database-connections-to-under-100-dfd34062da4c)
 * [Event-Driven Architecture](https://medium.com/swlh/event-driven-architecture-94419ae175e)
 * [System Design Basics: Getting started with Load Balancer](https://codeburst.io/system-design-basics-load-balancer-101-adc4f602d08f)
+* [How the State Pattern Will Improve Your Go Programs](https://medium.com/swlh/how-the-state-pattern-will-improve-your-go-programs-e9babeed6e41)
 
 ### Testing
 
@@ -392,6 +393,9 @@ The repository is constantly updated with new content.
 * [Still Alive](https://astralcodexten.substack.com/p/still-alive)
 * [Loon’s final flight](https://blog.x.company/loons-final-flight-e9d699123a96)
 * [Git News](https://gitnews.tech/)
+* [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
+* [please don't say just hello in chat](https://nohello.net/)
+* [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/)
 
 ## Philosophy
 
