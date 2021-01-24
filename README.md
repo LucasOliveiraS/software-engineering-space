@@ -151,6 +151,7 @@ The repository is constantly updated with new content.
 * [Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/)
 * [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
 * [Dynamic Programming: Memoization vs Tabulation](https://blog.bitsrc.io/dynamic-programming-memoization-vs-tabulation-9602a8dfaf46)
+* [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
 
 #### `Tips`
 
@@ -232,6 +233,7 @@ The repository is constantly updated with new content.
 * [Event-Driven Architecture](https://medium.com/swlh/event-driven-architecture-94419ae175e)
 * [System Design Basics: Getting started with Load Balancer](https://codeburst.io/system-design-basics-load-balancer-101-adc4f602d08f)
 * [How the State Pattern Will Improve Your Go Programs](https://medium.com/swlh/how-the-state-pattern-will-improve-your-go-programs-e9babeed6e41)
+* [Over architecture](https://dima-svetov.medium.com/over-architecture-89b24168f425)
 
 ### Testing
 
@@ -396,6 +398,9 @@ The repository is constantly updated with new content.
 * [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
 * [please don't say just hello in chat](https://nohello.net/)
 * [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/)
+* [Why Working From Home Will Stick](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf)
+* [I bought 200+ Raspberry Pi Model B’s and I’m going to fix them! Part 1](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
+* [Quiet People in Meetings Are Incredible](https://medium.com/the-ascent/quiet-people-in-meetings-are-incredible-7bb05ef9acd1)
 
 ## Philosophy
 
