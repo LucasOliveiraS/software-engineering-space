@@ -234,6 +234,7 @@ The repository is constantly updated with new content.
 * [System Design Basics: Getting started with Load Balancer](https://codeburst.io/system-design-basics-load-balancer-101-adc4f602d08f)
 * [How the State Pattern Will Improve Your Go Programs](https://medium.com/swlh/how-the-state-pattern-will-improve-your-go-programs-e9babeed6e41)
 * [Over architecture](https://dima-svetov.medium.com/over-architecture-89b24168f425)
+* [Cohesion - The cornerstone of Software Design](https://www.codurance.com/publications/software-creation/2016/03/03/cohesion-cornerstone-software-design)
 
 ### Testing
 
