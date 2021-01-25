@@ -152,6 +152,7 @@ The repository is constantly updated with new content.
 * [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
 * [Dynamic Programming: Memoization vs Tabulation](https://blog.bitsrc.io/dynamic-programming-memoization-vs-tabulation-9602a8dfaf46)
 * [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
+* [On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
 
 #### `Tips`
 
@@ -172,6 +173,7 @@ The repository is constantly updated with new content.
 * [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)
 * [A Better Note-Taking System for Your Scattered Brain](https://forge.medium.com/a-better-note-taking-system-for-your-scattered-brain-a65a398bd1f4)
 * [Ultralearning: How I Became a Top 20% Chess Player in Under 50 Hours](https://medium.com/better-humans/ultralearning-how-i-became-a-top-20-chess-player-in-under-50-hours-4e085a3b8a4b)
+* [Non-Coding Activities That Boost Developer Skills](https://medium.com/swlh/non-coding-activities-that-boost-developer-skills-bcae28cb8847)
 
 ### Algorithms and data structures
 
@@ -402,6 +404,9 @@ The repository is constantly updated with new content.
 * [Why Working From Home Will Stick](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf)
 * [I bought 200+ Raspberry Pi Model B’s and I’m going to fix them! Part 1](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
 * [Quiet People in Meetings Are Incredible](https://medium.com/the-ascent/quiet-people-in-meetings-are-incredible-7bb05ef9acd1)
+* [	Papercraft Models of Computers](http://rockybergen.com/papercraft)
+* [Escaping the roadmap trap](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
+* [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
 
 ## Philosophy
 
@@ -435,6 +440,7 @@ The repository is constantly updated with new content.
 * [A Ray of Hope: Array Programming for the 21st Century](https://www.youtube.com/watch?v=x1FoTYnJxeY)
 * [The Future of Programming](http://worrydream.com/dbx/)
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
+* [The Computer Revolution Hasn't Happened Yet](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
 
 ## Books
 
