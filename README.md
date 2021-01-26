@@ -62,6 +62,7 @@ The repository is constantly updated with new content.
 * [How To Become A Task Automation Hero Using Python [With Examples]](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
 * [Stop Using Print to Debug in Python. Use Icecream Instead](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc)
 * [A comprehensive guide to debugging Python scripts in VS Code](https://towardsdatascience.com/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8)
+* [Python “tricks” I can not live without](https://levelup.gitconnected.com/python-tricks-i-can-not-live-without-87ae6aff3af8)
 
 #### `JavaScript`
 
@@ -153,6 +154,7 @@ The repository is constantly updated with new content.
 * [Dynamic Programming: Memoization vs Tabulation](https://blog.bitsrc.io/dynamic-programming-memoization-vs-tabulation-9602a8dfaf46)
 * [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
 * [On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
+* [A Review of the Semantic Web Field](https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext)
 
 #### `Tips`
 
@@ -237,6 +239,8 @@ The repository is constantly updated with new content.
 * [How the State Pattern Will Improve Your Go Programs](https://medium.com/swlh/how-the-state-pattern-will-improve-your-go-programs-e9babeed6e41)
 * [Over architecture](https://dima-svetov.medium.com/over-architecture-89b24168f425)
 * [Cohesion - The cornerstone of Software Design](https://www.codurance.com/publications/software-creation/2016/03/03/cohesion-cornerstone-software-design)
+* [Arquitetura de Software: A diferença entre Arquitetura e Design](https://oieduardorabelo.medium.com/arquitetura-de-software-a-diferen%C3%A7a-entre-arquitetura-e-design-964ab38ea61a)
+* [6 YAML Features most programmers don’t know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)
 
 ### Testing
 
@@ -407,6 +411,9 @@ The repository is constantly updated with new content.
 * [	Papercraft Models of Computers](http://rockybergen.com/papercraft)
 * [Escaping the roadmap trap](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
 * [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
+* [Introducing Open Web Docs](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
+* [See a salamander grow from a single cell](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
+* [Our Journey to PostgreSQL 12](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
 
 ## Philosophy
 
