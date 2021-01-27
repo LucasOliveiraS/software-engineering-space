@@ -155,6 +155,8 @@ The repository is constantly updated with new content.
 * [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
 * [On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
 * [A Review of the Semantic Web Field](https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext)
+* [Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
+* [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 
 #### `Tips`
 
@@ -176,6 +178,7 @@ The repository is constantly updated with new content.
 * [A Better Note-Taking System for Your Scattered Brain](https://forge.medium.com/a-better-note-taking-system-for-your-scattered-brain-a65a398bd1f4)
 * [Ultralearning: How I Became a Top 20% Chess Player in Under 50 Hours](https://medium.com/better-humans/ultralearning-how-i-became-a-top-20-chess-player-in-under-50-hours-4e085a3b8a4b)
 * [Non-Coding Activities That Boost Developer Skills](https://medium.com/swlh/non-coding-activities-that-boost-developer-skills-bcae28cb8847)
+* [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/)
 
 ### Algorithms and data structures
 
@@ -414,6 +417,9 @@ The repository is constantly updated with new content.
 * [Introducing Open Web Docs](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
 * [See a salamander grow from a single cell](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
 * [Our Journey to PostgreSQL 12](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
+* [What does the night sky look like on Mars?](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/)
+* [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
+* [Five Rules for Taking Your Project From Idea to Deployment](https://levelup.gitconnected.com/five-rules-for-taking-your-project-from-idea-to-deployment-19cbc75472ab)
 
 ## Philosophy
 
