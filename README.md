@@ -246,6 +246,9 @@ The repository is constantly updated with new content.
 * [Cohesion - The cornerstone of Software Design](https://www.codurance.com/publications/software-creation/2016/03/03/cohesion-cornerstone-software-design)
 * [Arquitetura de Software: A diferença entre Arquitetura e Design](https://oieduardorabelo.medium.com/arquitetura-de-software-a-diferen%C3%A7a-entre-arquitetura-e-design-964ab38ea61a)
 * [6 YAML Features most programmers don’t know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)
+* [How does functional programming affect the structure of your code?](https://lorgonblog.wordpress.com/2008/09/22/how-does-functional-programming-affect-the-structure-of-your-code/)
+* [A primer on functional architecture](https://increment.com/software-architecture/primer-on-functional-architecture/)
+* [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 
 ### Testing
 
