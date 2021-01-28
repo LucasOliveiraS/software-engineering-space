@@ -104,6 +104,7 @@ The repository is constantly updated with new content.
 * [Errors vs. exceptions in Go and C++ in 2020](https://dr-knz.net/go-errors-vs-exceptions-2020.html)
 * [I Mastered Golang Basics by Solving These 15 Project Euler Problems](https://medium.com/better-programming/i-mastered-golang-basics-by-solving-these-15-project-euler-problems-1254a3897cf8)
 * [gRPC: How to Make Client Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-client-streaming-calls-5c731197585)
+* [Golang Generics: A New Proposal](https://levelup.gitconnected.com/golang-generics-proposal-2021-4510b715b5d0)
 
 #### `Elixir`
 
@@ -157,6 +158,7 @@ The repository is constantly updated with new content.
 * [A Review of the Semantic Web Field](https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext)
 * [Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
 * [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
+* [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
 
 #### `Tips`
 
@@ -420,6 +422,13 @@ The repository is constantly updated with new content.
 * [What does the night sky look like on Mars?](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/)
 * [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 * [Five Rules for Taking Your Project From Idea to Deployment](https://levelup.gitconnected.com/five-rules-for-taking-your-project-from-idea-to-deployment-19cbc75472ab)
+* [Let's Not Dumb Down the History of Computer Science](https://cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext)
+* [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
+* [Where do we go from here and who is going to step up to help us?](https://old.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
+* [How to be a genius](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
+* [A Bootstrapped SaaS Journey to 10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
+* [Automating My Job with GPT-3](https://blog.seekwell.io/gpt3)
+* [11 Life Lessons From History’s Most Underrated Genius](https://forge.medium.com/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f)
 
 ## Philosophy
 
