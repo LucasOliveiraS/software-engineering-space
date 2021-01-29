@@ -105,6 +105,7 @@ The repository is constantly updated with new content.
 * [I Mastered Golang Basics by Solving These 15 Project Euler Problems](https://medium.com/better-programming/i-mastered-golang-basics-by-solving-these-15-project-euler-problems-1254a3897cf8)
 * [gRPC: How to Make Client Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-client-streaming-calls-5c731197585)
 * [Golang Generics: A New Proposal](https://levelup.gitconnected.com/golang-generics-proposal-2021-4510b715b5d0)
+* [gRPC: How to Make Bi-directional Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-bi-directional-streaming-calls-70b4a0569b5b)
 
 #### `Elixir`
 
@@ -432,6 +433,8 @@ The repository is constantly updated with new content.
 * [A Bootstrapped SaaS Journey to 10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
 * [Automating My Job with GPT-3](https://blog.seekwell.io/gpt3)
 * [11 Life Lessons From History’s Most Underrated Genius](https://forge.medium.com/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f)
+* [The architecture of my life](https://blog.nntn.nl/architecture-of-my-life-2021)
+* [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 
 ## Philosophy
 
