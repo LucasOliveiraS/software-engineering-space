@@ -435,6 +435,8 @@ The repository is constantly updated with new content.
 * [11 Life Lessons From History’s Most Underrated Genius](https://forge.medium.com/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f)
 * [The architecture of my life](https://blog.nntn.nl/architecture-of-my-life-2021)
 * [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
+* [Docker, Django, Traefik, and IntercoolerJS is My Go-To Stack for Building a SaaS in 2021](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/)
+* [What Did We Lose When We Lost the Stars?](https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the)
 
 ## Philosophy
 
@@ -450,9 +452,13 @@ The repository is constantly updated with new content.
 
 ## Psychedelics
 
+* [Classic psychedelics: An integrative review of epidemiology, therapeutics, mystical experience, and brain network function](https://www.sciencedirect.com/science/article/abs/pii/S0163725818302158)
 * [Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers](https://pubs.acs.org/doi/10.1021/acsptsci.0c00099)
+* [Potential Therapeutic Effects of Psilocybin](https://link.springer.com/article/10.1007/s13311-017-0542-y)
 * [Silicon Valley Is Micro-Dosing ‘Magic Mushrooms’ To Boost Their Careers](https://www.forbes.com/sites/jackkelly/2020/01/17/silicon-valley-is-micro-dosing-magic-mushrooms-to-boost-their-careers/?sh=6f52e26b5822)
 * ['It makes me enjoy playing with the kids': is microdosing mushrooms going mainstream?](https://www.theguardian.com/science/2019/may/03/psychedelic-drugs-women-taking-tiny-doses-hattie-garlick)
+* [How ecstasy and psilocybin are shaking up psychiatry](https://www.nature.com/articles/d41586-021-00187-9)
+* [Michael Pollan and Tim Ferriss](https://www.youtube.com/watch?v=lOCeY3bbxvs)
 
 ## Talks
 
