@@ -106,6 +106,7 @@ The repository is constantly updated with new content.
 * [gRPC: How to Make Client Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-client-streaming-calls-5c731197585)
 * [Golang Generics: A New Proposal](https://levelup.gitconnected.com/golang-generics-proposal-2021-4510b715b5d0)
 * [gRPC: How to Make Bi-directional Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-bi-directional-streaming-calls-70b4a0569b5b)
+* [Two Number Sum in Golang](https://levelup.gitconnected.com/two-number-sum-in-golang-355627d6c861)
 
 #### `Elixir`
 
@@ -250,6 +251,7 @@ The repository is constantly updated with new content.
 * [How does functional programming affect the structure of your code?](https://lorgonblog.wordpress.com/2008/09/22/how-does-functional-programming-affect-the-structure-of-your-code/)
 * [A primer on functional architecture](https://increment.com/software-architecture/primer-on-functional-architecture/)
 * [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
+* [Divide Your Codebase by Domains and Features To Keep It Scalable](https://medium.com/better-programming/divide-code-by-domains-and-features-and-keep-it-scalable-bb5bd66cf3d2)
 
 ### Testing
 
@@ -437,6 +439,10 @@ The repository is constantly updated with new content.
 * [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 * [Docker, Django, Traefik, and IntercoolerJS is My Go-To Stack for Building a SaaS in 2021](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/)
 * [What Did We Lose When We Lost the Stars?](https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the)
+* [gemini:// space](https://spwhitton.name//blog/entry/geminispace/)
+* [What the F#!](https://onurgumus.github.io/2021/01/31/What-the-F.html)
+* [GitHub Should Start An App Store](https://www.ankshilp.com/time_for_github_app_store/)
+* [The Simplest Way to Improve as a Writer](https://susanorlean.medium.com/the-simplest-way-to-improve-as-a-writer-10eef4420762)
 
 ## Philosophy
 
