@@ -183,6 +183,7 @@ The repository is constantly updated with new content.
 * [Ultralearning: How I Became a Top 20% Chess Player in Under 50 Hours](https://medium.com/better-humans/ultralearning-how-i-became-a-top-20-chess-player-in-under-50-hours-4e085a3b8a4b)
 * [Non-Coding Activities That Boost Developer Skills](https://medium.com/swlh/non-coding-activities-that-boost-developer-skills-bcae28cb8847)
 * [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/)
+* [7 bite-sized tips for reliable web automation and scraping selectors](https://medium.com/brick-by-brick/7-bite-sized-tips-for-reliable-web-automation-and-scraping-selectors-2612bc4de2a1)
 
 ### Algorithms and data structures
 
@@ -443,6 +444,9 @@ The repository is constantly updated with new content.
 * [What the F#!](https://onurgumus.github.io/2021/01/31/What-the-F.html)
 * [GitHub Should Start An App Store](https://www.ankshilp.com/time_for_github_app_store/)
 * [The Simplest Way to Improve as a Writer](https://susanorlean.medium.com/the-simplest-way-to-improve-as-a-writer-10eef4420762)
+* [A 25-Year-Old Bet Comes Due: Has Tech Destroyed Society?](https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/)
+* [Secrets of the Stacks](https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11)
+* [What is your “I don't care if this succeeds” project?](https://news.ycombinator.com/item?id=25992782)
 
 ## Philosophy
 
