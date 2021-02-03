@@ -161,6 +161,7 @@ The repository is constantly updated with new content.
 * [Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
 * [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 * [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
+* [The documentation system](https://documentation.divio.com/)
 
 #### `Tips`
 
@@ -184,6 +185,9 @@ The repository is constantly updated with new content.
 * [Non-Coding Activities That Boost Developer Skills](https://medium.com/swlh/non-coding-activities-that-boost-developer-skills-bcae28cb8847)
 * [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/)
 * [7 bite-sized tips for reliable web automation and scraping selectors](https://medium.com/brick-by-brick/7-bite-sized-tips-for-reliable-web-automation-and-scraping-selectors-2612bc4de2a1)
+* [How to lose money](https://www.getrevue.co/profile/andrewtye/issues/how-to-lose-money-323332)
+* [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
+* [How to Use YouTube to Be a Better Programmer](https://medium.com/better-programming/how-to-use-youtube-to-be-a-better-programmer-cadcbc989edb)
 
 ### Algorithms and data structures
 
@@ -447,6 +451,12 @@ The repository is constantly updated with new content.
 * [A 25-Year-Old Bet Comes Due: Has Tech Destroyed Society?](https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/)
 * [Secrets of the Stacks](https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11)
 * [What is your “I don't care if this succeeds” project?](https://news.ycombinator.com/item?id=25992782)
+* [Email from Jeff Bezos to employees](https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees)
+* [Everything you never wanted to know about ANSI escape codes](https://notes.burke.libbey.me/ansi-escape-codes/)
+* [Build A Confirmation Modal in React with State Machines](https://daveceddia.com/react-confirmation-modal-state-machine/)
+* [Is Van Gogh hiding at the back of this Toulouse-Lautrec drawing?](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
+* [Just because I have a vertical screen, doesn’t mean I’m on a phone!](https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone/)
+* [You Can Still Write an Exciting Article on That Topic](https://writingcooperative.com/you-can-still-write-an-exciting-article-on-that-topic-1fea31affb0c)
 
 ## Philosophy
 
