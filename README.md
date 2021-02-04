@@ -63,6 +63,7 @@ The repository is constantly updated with new content.
 * [Stop Using Print to Debug in Python. Use Icecream Instead](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc)
 * [A comprehensive guide to debugging Python scripts in VS Code](https://towardsdatascience.com/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8)
 * [Python “tricks” I can not live without](https://levelup.gitconnected.com/python-tricks-i-can-not-live-without-87ae6aff3af8)
+* [You don't really need a virtualenv](https://frostming.com/2021/01-22/introducing-pdm/)
 
 #### `JavaScript`
 
@@ -457,6 +458,10 @@ The repository is constantly updated with new content.
 * [Is Van Gogh hiding at the back of this Toulouse-Lautrec drawing?](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
 * [Just because I have a vertical screen, doesn’t mean I’m on a phone!](https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone/)
 * [You Can Still Write an Exciting Article on That Topic](https://writingcooperative.com/you-can-still-write-an-exciting-article-on-that-topic-1fea31affb0c)
+* [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/)
+* [YTT Tech – My curated database of instructional YouTube Videos](https://ytt-tech.com/)
+* [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
+* [The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule)
 
 ## Philosophy
 
@@ -495,6 +500,7 @@ The repository is constantly updated with new content.
 * [The Future of Programming](http://worrydream.com/dbx/)
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 * [The Computer Revolution Hasn't Happened Yet](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
+* [Bill Evans - The Creative Process and Self-Teaching](https://www.youtube.com/watch?v=YEHWaGuurUk)
 
 ## Books
 
@@ -502,6 +508,7 @@ The repository is constantly updated with new content.
 * [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/ESEUR.pdf)
 * [Algorithms for Decision Making](http://algorithmsbook.com/files/dm.pdf)
 * [St. Benedict’s Rule for Monasteries](https://www.gutenberg.org/files/50040/50040-h/50040-h.html#prologue)
+* [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 ## Youtube channels
 
