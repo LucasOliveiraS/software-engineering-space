@@ -64,6 +64,8 @@ The repository is constantly updated with new content.
 * [A comprehensive guide to debugging Python scripts in VS Code](https://towardsdatascience.com/a-comprehensive-guide-to-debugging-python-scripts-in-vs-code-b9f9f777d4b8)
 * [Python “tricks” I can not live without](https://levelup.gitconnected.com/python-tricks-i-can-not-live-without-87ae6aff3af8)
 * [You don't really need a virtualenv](https://frostming.com/2021/01-22/introducing-pdm/)
+* [Python's tug of war between beginner-friendly features and support for advanced users](https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html)
+* [The Most Useful Python Libraries To Take Control Of Everything]()
 
 #### `JavaScript`
 
@@ -163,6 +165,7 @@ The repository is constantly updated with new content.
 * [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 * [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
 * [The documentation system](https://documentation.divio.com/)
+* [5 Essential Takeaways From “The Pragmatic Programmer”](https://medium.com/better-programming/5-essential-takeaways-from-the-pragmatic-programmer-6bb3db986294)
 
 #### `Tips`
 
@@ -462,6 +465,12 @@ The repository is constantly updated with new content.
 * [YTT Tech – My curated database of instructional YouTube Videos](https://ytt-tech.com/)
 * [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 * [The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule)
+* [A Scientist’s Mind, a Poet’s Soul](https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul)
+* [LibrePlanel](https://libreplanet.org/2021/)
+* [The man who produced Steve Jobs’ keynotes for 20 years](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
+* [Disqus, the dark commenting system](https://supunkavinda.blog/disqus)
+* [Atkinson Hyperlegible Font May Be Pretty Good If Your Granny Can't See Well](https://christiantietze.de/posts/2021/01/hyperlegible-font/)
+* [Your Ego Is Limiting Your Ability To Become a Great Developer (and You’re Probably in Denial)](https://medium.com/better-programming/your-ego-is-limiting-your-ability-to-become-a-great-developer-and-youre-probably-in-denial-c489a82ff81a)
 
 ## Philosophy
 
