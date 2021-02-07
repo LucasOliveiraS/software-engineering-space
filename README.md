@@ -166,6 +166,9 @@ The repository is constantly updated with new content.
 * [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
 * [The documentation system](https://documentation.divio.com/)
 * [5 Essential Takeaways From “The Pragmatic Programmer”](https://medium.com/better-programming/5-essential-takeaways-from-the-pragmatic-programmer-6bb3db986294)
+* [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 
 #### `Tips`
 
@@ -471,6 +474,9 @@ The repository is constantly updated with new content.
 * [Disqus, the dark commenting system](https://supunkavinda.blog/disqus)
 * [Atkinson Hyperlegible Font May Be Pretty Good If Your Granny Can't See Well](https://christiantietze.de/posts/2021/01/hyperlegible-font/)
 * [Your Ego Is Limiting Your Ability To Become a Great Developer (and You’re Probably in Denial)](https://medium.com/better-programming/your-ego-is-limiting-your-ability-to-become-a-great-developer-and-youre-probably-in-denial-c489a82ff81a)
+* ['Smallest reptile on earth' discovered in Madagascar](https://www.bbc.com/news/world-africa-55945948)
+* [Science fiction hasn’t prepared us to imagine machine learning](https://tedunderwood.com/2021/02/02/why-sf-hasnt-prepared-us-to-imagine-machine-learning/)
+* [How many early human species existed on Earth?](https://www.livescience.com/how-many-human-species.html)
 
 ## Philosophy
 
