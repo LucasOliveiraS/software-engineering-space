@@ -195,6 +195,7 @@ The repository is constantly updated with new content.
 * [How to lose money](https://www.getrevue.co/profile/andrewtye/issues/how-to-lose-money-323332)
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [How to Use YouTube to Be a Better Programmer](https://medium.com/better-programming/how-to-use-youtube-to-be-a-better-programmer-cadcbc989edb)
+* [The Most Meaningful Things You Can Do If You Have 2, 5, 15, 30 or 60 Minutes](https://forge.medium.com/the-ultimate-guide-to-discovering-more-time-each-day-to-get-things-done-and-feel-more-relaxed-7a5b23a4874)
 
 ### Algorithms and data structures
 
@@ -477,6 +478,10 @@ The repository is constantly updated with new content.
 * ['Smallest reptile on earth' discovered in Madagascar](https://www.bbc.com/news/world-africa-55945948)
 * [Science fiction hasn’t prepared us to imagine machine learning](https://tedunderwood.com/2021/02/02/why-sf-hasnt-prepared-us-to-imagine-machine-learning/)
 * [How many early human species existed on Earth?](https://www.livescience.com/how-many-human-species.html)
+* [Blog with Markdown + Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time)
+* [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
+* [I followed my dreams to get demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/)
+* [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)
 
 ## Philosophy
 
