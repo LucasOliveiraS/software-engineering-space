@@ -169,6 +169,7 @@ The repository is constantly updated with new content.
 * [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
+* [Compiler Class](https://norswap.com/compilers/)
 
 #### `Tips`
 
@@ -482,6 +483,10 @@ The repository is constantly updated with new content.
 * [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
 * [I followed my dreams to get demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/)
 * [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)
+* [20% of requests for Wikimedia Commons are for one image of a flower (wikimedia.org)](https://phabricator.wikimedia.org/T273741)
+* [Pseudophilosophy encourages confused, self-indulgent thinking](https://psyche.co/ideas/pseudophilosophy-encourages-confused-self-indulgent-thinking)
+* [Turning an old Amazon Kindle into a eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
+* [I don't want to do front-end anymore](https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore)
 
 ## Philosophy
 
@@ -529,6 +534,7 @@ The repository is constantly updated with new content.
 * [Algorithms for Decision Making](http://algorithmsbook.com/files/dm.pdf)
 * [St. Benedict’s Rule for Monasteries](https://www.gutenberg.org/files/50040/50040-h/50040-h.html#prologue)
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+* [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## Youtube channels
 
