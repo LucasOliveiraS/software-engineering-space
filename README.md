@@ -65,7 +65,8 @@ The repository is constantly updated with new content.
 * [Python “tricks” I can not live without](https://levelup.gitconnected.com/python-tricks-i-can-not-live-without-87ae6aff3af8)
 * [You don't really need a virtualenv](https://frostming.com/2021/01-22/introducing-pdm/)
 * [Python's tug of war between beginner-friendly features and support for advanced users](https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html)
-* [The Most Useful Python Libraries To Take Control Of Everything]()
+* [The Most Useful Python Libraries To Take Control Of Everything](https://levelup.gitconnected.com/the-most-useful-python-libraries-to-take-control-of-everything-52ada681718e)
+* [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 
 #### `JavaScript`
 
@@ -110,6 +111,7 @@ The repository is constantly updated with new content.
 * [Golang Generics: A New Proposal](https://levelup.gitconnected.com/golang-generics-proposal-2021-4510b715b5d0)
 * [gRPC: How to Make Bi-directional Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-bi-directional-streaming-calls-70b4a0569b5b)
 * [Two Number Sum in Golang](https://levelup.gitconnected.com/two-number-sum-in-golang-355627d6c861)
+* [Depth & Breadth First Search in Go](https://levelup.gitconnected.com/depth-breadth-first-search-in-go-8a6ddcdc73d9)
 
 #### `Elixir`
 
@@ -266,6 +268,8 @@ The repository is constantly updated with new content.
 * [A primer on functional architecture](https://increment.com/software-architecture/primer-on-functional-architecture/)
 * [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 * [Divide Your Codebase by Domains and Features To Keep It Scalable](https://medium.com/better-programming/divide-code-by-domains-and-features-and-keep-it-scalable-bb5bd66cf3d2)
+* [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+* [Multi-Tenant Architecture](https://levelup.gitconnected.com/multi-tenant-architecture-8c1f597e069c)
 
 ### Testing
 
@@ -487,6 +491,9 @@ The repository is constantly updated with new content.
 * [Pseudophilosophy encourages confused, self-indulgent thinking](https://psyche.co/ideas/pseudophilosophy-encourages-confused-self-indulgent-thinking)
 * [Turning an old Amazon Kindle into a eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 * [I don't want to do front-end anymore](https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore)
+* [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+* [The unusual way I'm funding my open source work](https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/)
+* [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 
 ## Philosophy
 
