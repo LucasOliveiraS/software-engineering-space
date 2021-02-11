@@ -172,6 +172,7 @@ The repository is constantly updated with new content.
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 * [Compiler Class](https://norswap.com/compilers/)
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
 #### `Tips`
 
@@ -199,6 +200,7 @@ The repository is constantly updated with new content.
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [How to Use YouTube to Be a Better Programmer](https://medium.com/better-programming/how-to-use-youtube-to-be-a-better-programmer-cadcbc989edb)
 * [The Most Meaningful Things You Can Do If You Have 2, 5, 15, 30 or 60 Minutes](https://forge.medium.com/the-ultimate-guide-to-discovering-more-time-each-day-to-get-things-done-and-feel-more-relaxed-7a5b23a4874)
+* [Do You Write Code With Your Mouse?](https://themouseless.dev/)
 
 ### Algorithms and data structures
 
