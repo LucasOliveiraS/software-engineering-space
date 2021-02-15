@@ -173,6 +173,7 @@ The repository is constantly updated with new content.
 * [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 * [Compiler Class](https://norswap.com/compilers/)
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+* [	A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
 
 #### `Tips`
 
@@ -201,6 +202,7 @@ The repository is constantly updated with new content.
 * [How to Use YouTube to Be a Better Programmer](https://medium.com/better-programming/how-to-use-youtube-to-be-a-better-programmer-cadcbc989edb)
 * [The Most Meaningful Things You Can Do If You Have 2, 5, 15, 30 or 60 Minutes](https://forge.medium.com/the-ultimate-guide-to-discovering-more-time-each-day-to-get-things-done-and-feel-more-relaxed-7a5b23a4874)
 * [Do You Write Code With Your Mouse?](https://themouseless.dev/)
+* [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 
 ### Algorithms and data structures
 
@@ -496,6 +498,7 @@ The repository is constantly updated with new content.
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [The unusual way I'm funding my open source work](https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/)
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+* [I Really Blew It](http://www.erasmatazz.com/personal/self/i-really-blew-it.html)
 
 ## Philosophy
 
