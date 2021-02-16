@@ -93,6 +93,7 @@ The repository is constantly updated with new content.
 * [Clean Node.js Architecture | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/clean-nodejs-architecture/)
 * [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code [with Examples]](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
 * [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+* [Node.js Developer Interview Questions](https://codeburst.io/node-js-developer-interview-questions-df68c451bb4f)
 
 #### `GO`
 
@@ -174,6 +175,7 @@ The repository is constantly updated with new content.
 * [Compiler Class](https://norswap.com/compilers/)
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 * [	A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
+* [Is this a branch?](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 
 #### `Tips`
 
@@ -203,6 +205,7 @@ The repository is constantly updated with new content.
 * [The Most Meaningful Things You Can Do If You Have 2, 5, 15, 30 or 60 Minutes](https://forge.medium.com/the-ultimate-guide-to-discovering-more-time-each-day-to-get-things-done-and-feel-more-relaxed-7a5b23a4874)
 * [Do You Write Code With Your Mouse?](https://themouseless.dev/)
 * [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
+8 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 
 ### Algorithms and data structures
 
