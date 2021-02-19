@@ -176,6 +176,7 @@ The repository is constantly updated with new content.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 * [	A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
 * [Is this a branch?](https://bartwronski.com/2021/01/18/is-this-a-branch/)
+* [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
 
 #### `Tips`
 
@@ -206,6 +207,7 @@ The repository is constantly updated with new content.
 * [Do You Write Code With Your Mouse?](https://themouseless.dev/)
 * [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 8 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
+* [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 
 ### Algorithms and data structures
 
@@ -277,6 +279,9 @@ The repository is constantly updated with new content.
 * [Divide Your Codebase by Domains and Features To Keep It Scalable](https://medium.com/better-programming/divide-code-by-domains-and-features-and-keep-it-scalable-bb5bd66cf3d2)
 * [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Multi-Tenant Architecture](https://levelup.gitconnected.com/multi-tenant-architecture-8c1f597e069c)
+* [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
+* [12 requests per second](https://suade.org/dev/12-requests-per-second-with-python/)
+* [Designing a RISC-V CPU, Part 1: Learning hardware design as a software engineer](https://mcla.ug/blog/risc-v-cpu-part-1.html)
 
 ### Testing
 
@@ -502,6 +507,7 @@ The repository is constantly updated with new content.
 * [The unusual way I'm funding my open source work](https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/)
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 * [I Really Blew It](http://www.erasmatazz.com/personal/self/i-really-blew-it.html)
+* [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
 
 ## Philosophy
 
