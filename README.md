@@ -177,6 +177,7 @@ The repository is constantly updated with new content.
 * [	A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
 * [Is this a branch?](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 * [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
+* [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
 
 #### `Tips`
 
@@ -508,6 +509,12 @@ The repository is constantly updated with new content.
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 * [I Really Blew It](http://www.erasmatazz.com/personal/self/i-really-blew-it.html)
 * [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
+* [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/)
+* [How to destroy the Earth](https://qntm.org/destroy)
+* [I don't know, Timmy, being God is a big responsibility](https://qntm.org/responsibility)
+* [Why You Need to Build the Wrong Company, Date the Wrong Person, and Take the Wrong Job](https://medium.com/swlh/why-you-need-to-build-the-wrong-company-date-the-wrong-person-and-take-the-wrong-job-1c7a42447909)
+* [Building a sonar sensor array with Arduino and Python](https://towardsdatascience.com/building-a-sonar-sensor-array-with-arduino-and-python-c5b4cf30b945)
+* [The Types of Programmers I Don’t Want to Work with Again](https://levelup.gitconnected.com/the-types-of-programmers-i-dont-want-to-work-with-again-9e1ea0e92ff6)
 
 ## Philosophy
 
