@@ -125,6 +125,7 @@ The repository is constantly updated with new content.
 * [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
 * [Write Better Commits With Semantic Commits](https://medium.com/swlh/write-better-commits-with-semantic-commits-3316c68763f6)
 * [Git Prettier Commits with Husky](https://levelup.gitconnected.com/git-prettier-commits-with-husky-e5bcf2da4dac)
+* [The Differences between Rebase and Merge](https://towardsdatascience.com/the-differences-between-rebase-and-merge-30c91cd18f30)
 
 #### `Concepts`
 
@@ -283,6 +284,7 @@ The repository is constantly updated with new content.
 * [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
 * [12 requests per second](https://suade.org/dev/12-requests-per-second-with-python/)
 * [Designing a RISC-V CPU, Part 1: Learning hardware design as a software engineer](https://mcla.ug/blog/risc-v-cpu-part-1.html)
+* [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 
 ### Testing
 
@@ -515,6 +517,8 @@ The repository is constantly updated with new content.
 * [Why You Need to Build the Wrong Company, Date the Wrong Person, and Take the Wrong Job](https://medium.com/swlh/why-you-need-to-build-the-wrong-company-date-the-wrong-person-and-take-the-wrong-job-1c7a42447909)
 * [Building a sonar sensor array with Arduino and Python](https://towardsdatascience.com/building-a-sonar-sensor-array-with-arduino-and-python-c5b4cf30b945)
 * [The Types of Programmers I Don’t Want to Work with Again](https://levelup.gitconnected.com/the-types-of-programmers-i-dont-want-to-work-with-again-9e1ea0e92ff6)
+* [Lena](https://qntm.org/mmacevedo)
+* [Research software code is likely to remain a tangled mess](http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/)
 
 ## Philosophy
 
