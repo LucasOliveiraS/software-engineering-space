@@ -210,6 +210,7 @@ The repository is constantly updated with new content.
 * [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 8 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 * [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
+* ["But How Do I Actually Start?" Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 
 ### Algorithms and data structures
 
@@ -285,6 +286,8 @@ The repository is constantly updated with new content.
 * [12 requests per second](https://suade.org/dev/12-requests-per-second-with-python/)
 * [Designing a RISC-V CPU, Part 1: Learning hardware design as a software engineer](https://mcla.ug/blog/risc-v-cpu-part-1.html)
 * [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+* [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
+* [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 
 ### Testing
 
@@ -295,6 +298,7 @@ The repository is constantly updated with new content.
 * [TDD Revisited](https://danuker.go.ro/tdd-revisited-pytest-updated-2020-09-03.html#update-2020-09-03-keep-coupling-low)
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 * [How To Write Unit Tests For Logging](https://principal-it.eu/2020/11/unit-tests-for-logging/)
+* [How Amazon tests their website. A discussion with Jayden Yang](https://monica-alma-ramirez.medium.com/how-amazon-tests-their-website-a-discussion-with-jayden-yang-2e98fea2b9cb)
 
 ### Quantum computing
 
@@ -519,6 +523,7 @@ The repository is constantly updated with new content.
 * [The Types of Programmers I Don’t Want to Work with Again](https://levelup.gitconnected.com/the-types-of-programmers-i-dont-want-to-work-with-again-9e1ea0e92ff6)
 * [Lena](https://qntm.org/mmacevedo)
 * [Research software code is likely to remain a tangled mess](http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/)
+* [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
 
 ## Philosophy
 
