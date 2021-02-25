@@ -211,6 +211,7 @@ The repository is constantly updated with new content.
 8 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 * [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 * ["But How Do I Actually Start?" Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
+* [6 Practices to Improve Your Code Review Process](https://levelup.gitconnected.com/6-practices-to-improve-your-code-review-process-85e95d6503bd)
 
 ### Algorithms and data structures
 
@@ -524,6 +525,11 @@ The repository is constantly updated with new content.
 * [Lena](https://qntm.org/mmacevedo)
 * [Research software code is likely to remain a tangled mess](http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/)
 * [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
+* [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1)
+* [When Everyone’s a Genius (A Few Thoughts on Speculation)](https://www.collaborativefund.com/blog/speculation/)
+* [Google Cloud vs AWS Onboarding Comparison](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html)
+* [I Want to Retire in the Next 5 Years. I Am 34-Years-Old. People Tell Me This Is Nuts](https://medium.com/the-ascent/i-want-to-retire-in-the-next-5-years-i-am-34-years-old-people-tell-me-this-is-nuts-f90b22469f23)
+* [10 Amusing Red Flags During a Software Engineering Interview](https://medium.com/swlh/10-amusing-red-flags-during-a-software-engineering-interview-af7e98b717c3)
 
 ## Philosophy
 
