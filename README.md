@@ -212,6 +212,7 @@ The repository is constantly updated with new content.
 * [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 * ["But How Do I Actually Start?" Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 * [6 Practices to Improve Your Code Review Process](https://levelup.gitconnected.com/6-practices-to-improve-your-code-review-process-85e95d6503bd)
+* [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)
 
 ### Algorithms and data structures
 
@@ -289,6 +290,8 @@ The repository is constantly updated with new content.
 * [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 * [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 * [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+* [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
+* [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
 
 ### Testing
 
@@ -530,6 +533,9 @@ The repository is constantly updated with new content.
 * [Google Cloud vs AWS Onboarding Comparison](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html)
 * [I Want to Retire in the Next 5 Years. I Am 34-Years-Old. People Tell Me This Is Nuts](https://medium.com/the-ascent/i-want-to-retire-in-the-next-5-years-i-am-34-years-old-people-tell-me-this-is-nuts-f90b22469f23)
 * [10 Amusing Red Flags During a Software Engineering Interview](https://medium.com/swlh/10-amusing-red-flags-during-a-software-engineering-interview-af7e98b717c3)
+* [redbean - single-file distributable web server](https://justine.lol/redbean/index.html)
+* [INTERCAL, YAML, And Other Horrible Programming Languages](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/)
+* [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 
 ## Philosophy
 
