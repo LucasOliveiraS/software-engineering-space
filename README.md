@@ -179,6 +179,7 @@ The repository is constantly updated with new content.
 * [Is this a branch?](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 * [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
 * [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
+* [PureScript and Haskell](https://blog.drewolson.org/purescript-and-haskell)
 
 #### `Tips`
 
@@ -536,6 +537,7 @@ The repository is constantly updated with new content.
 * [redbean - single-file distributable web server](https://justine.lol/redbean/index.html)
 * [INTERCAL, YAML, And Other Horrible Programming Languages](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/)
 * [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
+* [Free Land — Living Off Grid With No Money](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html)
 
 ## Philosophy
 
