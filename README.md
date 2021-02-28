@@ -293,6 +293,8 @@ The repository is constantly updated with new content.
 * [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 * [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
 * [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
+* [Patterns of Functional Programming: Functional Core - Imperative Shell](http://www.javiercasas.com/articles/functional-programming-patterns-functional-core-imperative-shell)
+* [Functional core, imperative shell](https://news.ycombinator.com/item?id=18043058)
 
 ### Testing
 
@@ -605,11 +607,14 @@ The repository is constantly updated with new content.
 * [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 * [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
 * [Código Fonte TV](https://www.youtube.com/c/codigofontetv)
+* [Otavio Lemos](https://www.youtube.com/channel/UC9cOiXh-RFR7KI61KcyTb0g)
+* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 
 ## Podcasts
 
 * [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 * [Hipsters.tech](https://hipsters.tech/)
+* [Clean Coders](https://devchat.tv/show/clean-coders/)
 
 ## Repositories
 
