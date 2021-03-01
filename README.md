@@ -118,6 +118,7 @@ The repository is constantly updated with new content.
 
 * [Elixir School](https://elixirschool.com/en/)
 * [How OTP Applications are structured](https://blog.appsignal.com/2018/09/18/elixir-alchemy-how-otp-applications-are-structured.html#:~:text=OTP%2C%20the%20framework%20that%20provides,code%20into%20units%20or%20components.&text=An%20application%20is%20a%20component,can%20take%20its%20own%20configuration.)
+* [User Authentication from Scratch in Elixir and Phoenix](https://nithinbekal.com/posts/phoenix-authentication/)
 
 #### `Git/GitHub`
 
