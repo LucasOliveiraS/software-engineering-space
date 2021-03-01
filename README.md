@@ -541,6 +541,9 @@ The repository is constantly updated with new content.
 * [INTERCAL, YAML, And Other Horrible Programming Languages](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/)
 * [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 * [Free Land — Living Off Grid With No Money](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html)
+* [Build a business, not an audience](https://jakobgreenfeld.com/build_an_audience)
+* [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+* [The Mars Helicopter is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
 
 ## Philosophy
 
