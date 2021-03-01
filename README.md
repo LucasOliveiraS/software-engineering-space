@@ -181,6 +181,7 @@ The repository is constantly updated with new content.
 * [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
 * [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
 * [PureScript and Haskell](https://blog.drewolson.org/purescript-and-haskell)
+* [Plain English explanation of “Big O” notation?](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278#487278)
 
 #### `Tips`
 
