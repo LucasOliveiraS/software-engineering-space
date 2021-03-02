@@ -182,6 +182,7 @@ The repository is constantly updated with new content.
 * [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
 * [PureScript and Haskell](https://blog.drewolson.org/purescript-and-haskell)
 * [Plain English explanation of “Big O” notation?](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278#487278)
+* [Speed is the killer feature](https://bdickason.com/posts/speed-is-the-killer-feature/)
 
 #### `Tips`
 
@@ -297,6 +298,7 @@ The repository is constantly updated with new content.
 * [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
 * [Patterns of Functional Programming: Functional Core - Imperative Shell](http://www.javiercasas.com/articles/functional-programming-patterns-functional-core-imperative-shell)
 * [Functional core, imperative shell](https://news.ycombinator.com/item?id=18043058)
+* [The Netflix Cosmos Platform](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 
 ### Testing
 
@@ -545,6 +547,7 @@ The repository is constantly updated with new content.
 * [Build a business, not an audience](https://jakobgreenfeld.com/build_an_audience)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 * [The Mars Helicopter is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
+* [Foundational distributed systems papers](https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 
 ## Philosophy
 
@@ -584,6 +587,7 @@ The repository is constantly updated with new content.
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 * [The Computer Revolution Hasn't Happened Yet](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
 * [Bill Evans - The Creative Process and Self-Teaching](https://www.youtube.com/watch?v=YEHWaGuurUk)
+* [Jonah Edwards - Internet Archive Infrastructure](https://archive.org/details/jonah-edwards-presentation)
 
 ## Books
 
