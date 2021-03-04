@@ -216,7 +216,8 @@ The repository is constantly updated with new content.
 * [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 * ["But How Do I Actually Start?" Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 * [6 Practices to Improve Your Code Review Process](https://levelup.gitconnected.com/6-practices-to-improve-your-code-review-process-85e95d6503bd)
-* [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)
+* [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)]
+* [A Terse Guide on Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
 
 ### Algorithms and data structures
 
@@ -548,6 +549,10 @@ The repository is constantly updated with new content.
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 * [The Mars Helicopter is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
 * [Foundational distributed systems papers](https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+* [I should quit my job and become a goat farmer](http://www.goatops.com/)
+* [It Can Happen to You](mattkeeter.com/blog/2021-03-01-happen/)
+* [Troll Research Station: how to operate an airport in Antarctica](https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/)
+* []()
 
 ## Philosophy
 
