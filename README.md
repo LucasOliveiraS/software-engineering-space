@@ -183,6 +183,8 @@ The repository is constantly updated with new content.
 * [PureScript and Haskell](https://blog.drewolson.org/purescript-and-haskell)
 * [Plain English explanation of “Big O” notation?](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278#487278)
 * [Speed is the killer feature](https://bdickason.com/posts/speed-is-the-killer-feature/)
+* [Do you think Agile/Scrum is beneficial for software delivery?](https://news.ycombinator.com/item?id=26345235)
+* [HTTPWTF](https://httptoolkit.tech/blog/http-wtf/)
 
 #### `Tips`
 
@@ -216,7 +218,7 @@ The repository is constantly updated with new content.
 * [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 * ["But How Do I Actually Start?" Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 * [6 Practices to Improve Your Code Review Process](https://levelup.gitconnected.com/6-practices-to-improve-your-code-review-process-85e95d6503bd)
-* [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)]
+* [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)
 * [A Terse Guide on Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
 
 ### Algorithms and data structures
@@ -225,6 +227,7 @@ The repository is constantly updated with new content.
 * [Data Structures You Should Know as a JavaScript Developer](https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/)
+* [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
 ### Software architecture and design
 
@@ -300,6 +303,7 @@ The repository is constantly updated with new content.
 * [Patterns of Functional Programming: Functional Core - Imperative Shell](http://www.javiercasas.com/articles/functional-programming-patterns-functional-core-imperative-shell)
 * [Functional core, imperative shell](https://news.ycombinator.com/item?id=18043058)
 * [The Netflix Cosmos Platform](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
+* [The Ultimate Engineer’s Guide to Code Refactoring](https://medium.com/swlh/the-ultimate-engineers-guide-to-code-refactoring-c38372632906)
 
 ### Testing
 
@@ -552,7 +556,7 @@ The repository is constantly updated with new content.
 * [I should quit my job and become a goat farmer](http://www.goatops.com/)
 * [It Can Happen to You](mattkeeter.com/blog/2021-03-01-happen/)
 * [Troll Research Station: how to operate an airport in Antarctica](https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/)
-* []()
+* [Open source projects: consider running office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
 
 ## Philosophy
 
