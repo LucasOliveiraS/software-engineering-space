@@ -67,6 +67,9 @@ The repository is constantly updated with new content.
 * [Python's tug of war between beginner-friendly features and support for advanced users](https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html)
 * [The Most Useful Python Libraries To Take Control Of Everything](https://levelup.gitconnected.com/the-most-useful-python-libraries-to-take-control-of-everything-52ada681718e)
 * [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+* [32 Advanced Techniques for Better Python Code](https://betterprogramming.pub/thirty-two-advanced-techniques-for-better-python-code-6717226eb611)
+* [Implementing gRPC server using Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)
+* [All the Things You Can Do With GitHub API and Python](https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131)
 
 #### `JavaScript`
 
@@ -127,6 +130,7 @@ The repository is constantly updated with new content.
 * [Write Better Commits With Semantic Commits](https://medium.com/swlh/write-better-commits-with-semantic-commits-3316c68763f6)
 * [Git Prettier Commits with Husky](https://levelup.gitconnected.com/git-prettier-commits-with-husky-e5bcf2da4dac)
 * [The Differences between Rebase and Merge](https://towardsdatascience.com/the-differences-between-rebase-and-merge-30c91cd18f30)
+* [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
 
 #### `Concepts`
 
@@ -185,6 +189,10 @@ The repository is constantly updated with new content.
 * [Speed is the killer feature](https://bdickason.com/posts/speed-is-the-killer-feature/)
 * [Do you think Agile/Scrum is beneficial for software delivery?](https://news.ycombinator.com/item?id=26345235)
 * [HTTPWTF](https://httptoolkit.tech/blog/http-wtf/)
+* [Programming Paradigms, Turing Completeness and Computational Thinking](https://programming-journal.org/2020/4/4/)
+* [State Management: Overview](https://react-community-tools-practices-cheatsheet.netlify.app/state-management/overview/)
+* [Game Theory](https://oyc.yale.edu/economics/econ-159)
+* [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
 
 #### `Tips`
 
@@ -557,6 +565,7 @@ The repository is constantly updated with new content.
 * [It Can Happen to You](mattkeeter.com/blog/2021-03-01-happen/)
 * [Troll Research Station: how to operate an airport in Antarctica](https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/)
 * [Open source projects: consider running office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
+* [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 
 ## Philosophy
 
