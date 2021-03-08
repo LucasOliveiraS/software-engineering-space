@@ -222,7 +222,7 @@ The repository is constantly updated with new content.
 * [The Most Meaningful Things You Can Do If You Have 2, 5, 15, 30 or 60 Minutes](https://forge.medium.com/the-ultimate-guide-to-discovering-more-time-each-day-to-get-things-done-and-feel-more-relaxed-7a5b23a4874)
 * [Do You Write Code With Your Mouse?](https://themouseless.dev/)
 * [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
-8 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
+* [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 * [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 * ["But How Do I Actually Start?" Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 * [6 Practices to Improve Your Code Review Process](https://levelup.gitconnected.com/6-practices-to-improve-your-code-review-process-85e95d6503bd)
