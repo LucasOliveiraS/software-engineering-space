@@ -193,6 +193,7 @@ The repository is constantly updated with new content.
 * [State Management: Overview](https://react-community-tools-practices-cheatsheet.netlify.app/state-management/overview/)
 * [Game Theory](https://oyc.yale.edu/economics/econ-159)
 * [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
+* [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#)
 
 #### `Tips`
 
@@ -566,6 +567,11 @@ The repository is constantly updated with new content.
 * [Troll Research Station: how to operate an airport in Antarctica](https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/)
 * [Open source projects: consider running office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
 * [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
+* [New Algorithm Breaks Speed Limit for Solving Linear Equations](https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/)
+* [I want a Computer that I Own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html)
+* [Fuckin' user interface design, I swear](https://blog.plover.com/tech/ui.html)
+* [Generalists vs specialists - who has a greater chance of success?](https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/)
+* [-2000 Lines Of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 
 ## Philosophy
 
