@@ -70,6 +70,7 @@ The repository is constantly updated with new content.
 * [32 Advanced Techniques for Better Python Code](https://betterprogramming.pub/thirty-two-advanced-techniques-for-better-python-code-6717226eb611)
 * [Implementing gRPC server using Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)
 * [All the Things You Can Do With GitHub API and Python](https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131)
+* [12 requests per second](https://suade.org/dev/12-requests-per-second-with-python/)
 
 #### `JavaScript`
 
@@ -194,6 +195,7 @@ The repository is constantly updated with new content.
 * [Game Theory](https://oyc.yale.edu/economics/econ-159)
 * [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
 * [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#)
+* [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
 
 #### `Tips`
 
@@ -229,6 +231,8 @@ The repository is constantly updated with new content.
 * [6 Practices to Improve Your Code Review Process](https://levelup.gitconnected.com/6-practices-to-improve-your-code-review-process-85e95d6503bd)
 * [How often should I rotate my ssh keys?](https://tailscale.com/blog/rotate-ssh-keys/)
 * [A Terse Guide on Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
+* [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
+* [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
 
 ### Algorithms and data structures
 
@@ -313,6 +317,8 @@ The repository is constantly updated with new content.
 * [Functional core, imperative shell](https://news.ycombinator.com/item?id=18043058)
 * [The Netflix Cosmos Platform](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [The Ultimate Engineer’s Guide to Code Refactoring](https://medium.com/swlh/the-ultimate-engineers-guide-to-code-refactoring-c38372632906)
+* [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
+* [Our journey from a Python monolith to a managed platform](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 
 ### Testing
 
@@ -572,6 +578,17 @@ The repository is constantly updated with new content.
 * [Fuckin' user interface design, I swear](https://blog.plover.com/tech/ui.html)
 * [Generalists vs specialists - who has a greater chance of success?](https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/)
 * [-2000 Lines Of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
+* [GitHub, f*ck your name change](https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe)
+* [Watch NASA’s Perseverance Rover Land on Mars!](https://www.youtube.com/watch?v=gm0b_ijaYMQ)
+* [Jonah Edwards - Internet Archive Infrastructure](https://archive.org/details/jonah-edwards-presentation)
+* [Mars: Nasa's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
+* [I don't want to learn your garbage query language](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html)
+* [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
+* [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+* [So, why are software engineers better CEOs?](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
+* [Design For Reliability](https://semiengineering.com/design-for-reliability-2/)
+* [How I make graphics for retro systems and retro-styled games](http://nicole.express/2021/how-i-handle-graphics.html)
+* [Learning without Burnout](https://junglecoder.com/blog/learning-without-burnout)
 
 ## Philosophy
 
@@ -621,6 +638,7 @@ The repository is constantly updated with new content.
 * [St. Benedict’s Rule for Monasteries](https://www.gutenberg.org/files/50040/50040-h/50040-h.html#prologue)
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+* [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
 
 ## Youtube channels
 
