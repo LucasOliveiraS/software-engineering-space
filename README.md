@@ -319,6 +319,7 @@ The repository is constantly updated with new content.
 * [The Ultimate Engineer’s Guide to Code Refactoring](https://medium.com/swlh/the-ultimate-engineers-guide-to-code-refactoring-c38372632906)
 * [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 * [Our journey from a Python monolith to a managed platform](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
+* [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 
 ### Testing
 
