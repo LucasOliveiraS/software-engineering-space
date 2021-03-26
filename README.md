@@ -117,6 +117,7 @@ The repository is constantly updated with new content.
 * [gRPC: How to Make Bi-directional Streaming Calls](https://levelup.gitconnected.com/grpc-how-to-make-bi-directional-streaming-calls-70b4a0569b5b)
 * [Two Number Sum in Golang](https://levelup.gitconnected.com/two-number-sum-in-golang-355627d6c861)
 * [Depth & Breadth First Search in Go](https://levelup.gitconnected.com/depth-breadth-first-search-in-go-8a6ddcdc73d9)
+* [Practical Go Lessons](https://www.practical-go-lessons.com/)
 
 #### `Elixir`
 
@@ -196,6 +197,9 @@ The repository is constantly updated with new content.
 * [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
 * [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#)
 * [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
+* [Why OO Sucks by Joe Armstrong](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
+* [Computers and Creativity](https://www.mollymielke.com/cc)
+* [“Free Software”: An idea whose time has passed](https://r0ml.medium.com/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
 
 #### `Tips`
 
@@ -320,6 +324,8 @@ The repository is constantly updated with new content.
 * [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 * [Our journey from a Python monolith to a managed platform](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
+* [Honest Microservices](https://danielbmarkham.com/honest-microservices/)
+* [True RESTful API](https://lashewi.medium.com/true-restful-api-b675aaf72c32)
 
 ### Testing
 
@@ -590,6 +596,11 @@ The repository is constantly updated with new content.
 * [Design For Reliability](https://semiengineering.com/design-for-reliability-2/)
 * [How I make graphics for retro systems and retro-styled games](http://nicole.express/2021/how-i-handle-graphics.html)
 * [Learning without Burnout](https://junglecoder.com/blog/learning-without-burnout)
+* [Emoji under the hood](https://tonsky.me/blog/emoji/)
+* [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute?share=1)
+* [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+* [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7)
+* [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 
 ## Philosophy
 
