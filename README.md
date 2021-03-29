@@ -601,6 +601,8 @@ The repository is constantly updated with new content.
 * [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
 * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7)
 * [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
+* [Developer tools can be magic. Instead, they collect dust](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
+* [How To Criticize Computer Scientists or Avoiding Ineffective Deprecation And Making Insults More Pointed](https://www.cs.purdue.edu/homes/dec/essay.criticize.html)
 
 ## Philosophy
 
