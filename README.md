@@ -603,6 +603,15 @@ The repository is constantly updated with new content.
 * [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 * [Developer tools can be magic. Instead, they collect dust](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
 * [How To Criticize Computer Scientists or Avoiding Ineffective Deprecation And Making Insults More Pointed](https://www.cs.purdue.edu/homes/dec/essay.criticize.html)
+* [Beautiful PDFs from HTML](https://pdf.math.dev/)
+* [exploring databases visually](https://di.nmfay.com/exploring-databases-visually)
+* [When Did Life First Emerge in the Universe?](https://www.scientificamerican.com/article/when-did-life-first-emerge-in-the-universe/)
+* [The lost apps of the 80s](http://scripting.com/2021/04/04/174604.html?title=theLostAppsOfThe80s)
+* [It's Cold on Mars](https://mars.nasa.gov/technology/helicopter/status/288/its-cold-on-mars/)
+* [Staying awake: the surprisingly effective way to treat depression](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
+* [How Doctors Die](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
+* [Never use environment variables for configuration](https://nibblestew.blogspot.com/2021/03/never-use-environment-variables-for.html)
+* [The uninvited Internet of things](https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/)
 
 ## Philosophy
 
