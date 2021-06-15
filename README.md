@@ -71,6 +71,7 @@ The repository is constantly updated with new content.
 * [Implementing gRPC server using Python](https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0)
 * [All the Things You Can Do With GitHub API and Python](https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131)
 * [12 requests per second](https://suade.org/dev/12-requests-per-second-with-python/)
+* [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
 #### `JavaScript`
 
@@ -245,6 +246,7 @@ The repository is constantly updated with new content.
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/)
 * [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
+* [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust](https://benhoyt.com/writings/count-words/)
 
 ### Software architecture and design
 
@@ -326,6 +328,9 @@ The repository is constantly updated with new content.
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 * [Honest Microservices](https://danielbmarkham.com/honest-microservices/)
 * [True RESTful API](https://lashewi.medium.com/true-restful-api-b675aaf72c32)
+* [How the Model View Controller Architecture Works – MVC Explained](https://www.freecodecamp.org/news/model-view-architecture/)
+* [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
+* [Functions as interfaces](https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/)
 
 ### Testing
 
@@ -337,6 +342,7 @@ The repository is constantly updated with new content.
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)
 * [How To Write Unit Tests For Logging](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 * [How Amazon tests their website. A discussion with Jayden Yang](https://monica-alma-ramirez.medium.com/how-amazon-tests-their-website-a-discussion-with-jayden-yang-2e98fea2b9cb)
+* [My Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/)
 
 ### Quantum computing
 
@@ -612,6 +618,20 @@ The repository is constantly updated with new content.
 * [How Doctors Die](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
 * [Never use environment variables for configuration](https://nibblestew.blogspot.com/2021/03/never-use-environment-variables-for.html)
 * [The uninvited Internet of things](https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/)
+* [Outgrowing software](https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software)
+* [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
+* [Crazy New Ideas](http://paulgraham.com/newideas.html)
+* [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
+* [The Tyranny of the Faceless Other](https://sarvasvkulpati.com/blog/the-faceless-other)
+* [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
+* [Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
+* [A Project of One's Own](http://paulgraham.com/own.html)
+* [You Don’t Need Permission](https://steveblank.com/2021/06/04/you-dont-need-permission/)
+* [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+* [How to Start a Novel](https://granta.com/notes-on-craft-jonathan-lee/)
+* [Why Russians do not smile](https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/)
+* [Have you ever hurt yourself from your own code?](https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code)
+* [Better Thinking & Incentives: Lessons From Shakespeare](https://fs.blog/2021/05/lessons-shakespeare/)
 
 ## Philosophy
 
